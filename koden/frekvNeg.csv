@@ -1,0 +1,815 @@
+paragrafnummer,group_count,token,msd,lemma,lex,sense,complemgram,compwf,sentimentclass,ref,dephead,deprel,sentimentval,category,average_sentiment
+1644,11,En,DT.UTR.SIN.IND,|en|,|en..al.1|,|den..1:-1.000|en..2:-1.000|,|,|,,1,2,DT,-1,Flashback: Politik,1
+1644,11,skattesubvention,NN.UTR.SIN.IND.NOM,|skattesubvention|,|skattesubvention..nn.1|,|skattesubvention..1:-1.000|,|skatt..nn.1+subvention..nn.1:8.806e-14|,|skatte+subvention|,,2,6,SS,-1,Flashback: Politik,1
+1644,11,av,PP,|av|,|av..pp.1|,|av..1:-1.000|,|,|,,3,2,ET,-1,Flashback: Politik,1
+1644,11,hushållsnära,JJ.POS.UTR+NEU.PLU.IND+DEF.NOM,|hushållsnära|hushållsnära tjänst|,|hushållsnära..av.1|hushållsnära_tjänst..nnm.1|,|hushållsnära..1:-1.000|hushållsnära_tjänster..1:-1.000|,|hushåll..nn.1+nära..av.1:9.862e-13|hus..nn.1+håll..nn.1+nära..av.1:3.569e-25|,|hushålls+nära|hus+hålls+nära|,,4,5,AT,-1,Flashback: Politik,1
+1644,11,tjänster,NN.UTR.PLU.IND.NOM,|tjänst|hushållsnära tjänst:04|,|tjänst..nn.1|tjänst..nn.2|hushållsnära_tjänst..nnm.1:04|,|tjänst..3:0.979|tjänst..1:0.018|tjänst..2:0.002|tjänst..4:0.001|hushållsnära_tjänster..1:04:-1.000|,|,|,1.0,5,3,PA,-1,Flashback: Politik,1
+1644,11,leder,VB.PRS.AKT,|leda|,|leda..vb.1|,|leda..7:0.926|leda..1:0.032|leda..5:0.024|leda..6:0.009|leda..2:0.005|leda..8:0.004|,|,|,-0.0,6,0,ROOT,-1,Flashback: Politik,1
+1644,11,inte,AB,|inte|,|inte..ab.1|,|inte..1:-1.000|,|,|,,7,6,,-1,Flashback: Politik,1
+1644,11,till,PP,|till|,|till..pp.1|,|till..1:-1.000|,|,|,,8,6,OA,-1,Flashback: Politik,1
+1644,11,ökad,PC.PRF.UTR.SIN.IND.NOM,|öka|,|öka..vb.2|,|öka..2:-1.000|,|,|,0.0,9,10,AT,-1,Flashback: Politik,1
+1644,11,sysselsättning,NN.UTR.SIN.IND.NOM,|sysselsättning|,|sysselsättning..nn.1|,|sysselsättning..1:-1.000|,|,|,0.0,10,8,PA,-1,Flashback: Politik,1
+1644,11,.,MAD,|,|,|,|,|,,11,6,IP,-1,Flashback: Politik,1
+750,6,Men,KN,|men|,|men..kn.1|,|men..1:-1.000|,|,|,,1,0,ROOT,-1,Bloggmix 2017,0
+750,6,vi,PN.UTR.PLU.DEF.SUB,|vi|,|vi..pn.1|,|vi..1:-1.000|,|,|,,2,3,SS,-1,Bloggmix 2017,0
+750,6,gjorde,VB.PRT.AKT,|göra|,|göra..vb.1|,|göra..1:0.899|göra..2:0.057|göra..3:0.044|,|,|,-0.0,3,1,MS,-1,Bloggmix 2017,0
+750,6,inte,AB,|inte|,|inte..ab.1|,|inte..1:-1.000|,|,|,,4,3,,-1,Bloggmix 2017,0
+750,6,det,PN.NEU.SIN.DEF.SUB+OBJ,|den|,|den..pn.1|,|den..2:-1.000|,|,|,,5,3,OO,-1,Bloggmix 2017,0
+750,6,.,MAD,|,|,|,|,|,,6,3,IP,-1,Bloggmix 2017,0
+1392,10,Dessa,DT.UTR+NEU.PLU.DEF,|denna|,|denna..pn.1|,|denna..1:-1.000|,|,|,,1,2,DT,-1,Bloggmix 2017,1
+1392,10,sanktioner,NN.UTR.PLU.IND.NOM,|sanktion|,|sanktion..nn.1|,|sanktion..1:0.818|sanktion..2:0.182|,|,|,1.0,2,3,SS,-1,Bloggmix 2017,1
+1392,10,bygger,VB.PRS.AKT,|bygga|,|bygga..vb.1|,|bygga..1:-1.000|,|bygga..vb.1+ge..vb.1:6.069e-13|,|bygg+ger|,-0.0,3,0,ROOT,-1,Bloggmix 2017,1
+1392,10,inte,AB,|inte|,|inte..ab.1|,|inte..1:-1.000|,|,|,,4,3,,-1,Bloggmix 2017,1
+1392,10,på,PP,|på|,|på..pp.1|,|på..1:-1.000|,|,|,,5,3,OA,-1,Bloggmix 2017,1
+1392,10,någon,DT.UTR.SIN.IND,|någon|,|någon..pn.1|,|någon..1:-1.000|,|,|,,6,5,PA,-1,Bloggmix 2017,1
+1392,10,som,HA,|som|,|som..ab.1|,|som..3:-1.000|,|,|,,7,3,KA,-1,Bloggmix 2017,1
+1392,10,helst,AB.SUV,|gärna|,|gärna..ab.1|,|gärna..1:-1.000|,|,|,,8,6,HD,-1,Bloggmix 2017,1
+1392,10,realitet,NN.UTR.SIN.IND.NOM,|realitet|,|realitet..nn.1|,|realitet..1:-1.000|,|,|,,9,8,HD,-1,Bloggmix 2017,1
+1392,10,.,MAD,|,|,|,|,|,,10,3,IP,-1,Bloggmix 2017,1
+807,8,Det,PN.NEU.SIN.DEF.SUB+OBJ,|den|,|den..pn.1|,|den..2:-1.000|,|,|,,1,2,SS,-1,Bloggmix 2016,0
+807,8,innebär,VB.PRS.AKT,|innebära|,|innebära..vb.1|,|innebära..1:-1.000|,|inne..ab.1+bära..vb.1:5.073e-10|inne..av.1+bära..vb.1:2.259e-20|,|inne+bär|,0.0,2,0,ROOT,-1,Bloggmix 2016,0
+807,8,att,SN,|att|,|att..sn.1|,|att..1:-1.000|,|,|,,3,2,OO,-1,Bloggmix 2016,0
+807,8,det,PN.NEU.SIN.DEF.SUB+OBJ,|den|,|den..pn.1|,|den..2:-1.000|,|,|,,4,5,SS,-1,Bloggmix 2016,0
+807,8,måste,VB.PRS.AKT,|måste|,|måste..vb.1|,|måste..1:-1.000|,|,|,0.0,5,3,UA,-1,Bloggmix 2016,0
+807,8,till,PP,|till|,|till..pp.1|,|till..1:-1.000|,|,|,,6,5,OA,-1,Bloggmix 2016,0
+807,8,åtgärder,NN.UTR.PLU.IND.NOM,|åtgärd|,|åtgärd..nn.1|,|åtgärd..1:-1.000|,|åt..nn.1+gärd..nn.1:2.334e-20|,|åt+gärder|,0.0,7,6,PA,-1,Bloggmix 2016,0
+807,8,.,MAD,|,|,|,|,|,,8,2,IP,-1,Bloggmix 2016,0
+1716,21,Tror,VB.PRS.AKT,|tro|,|tro..vb.1|,|tro..1:0.969|tro..3:0.031|,|,|,0.0,1,0,ROOT,-1,Svenskt frasnät (SweFN),0
+1716,21,du,PN.UTR.SIN.DEF.SUB,|du|,|du..pn.1|,|du..1:-1.000|,|,|,,2,1,SS,-1,Svenskt frasnät (SweFN),0
+1716,21,att,SN,|att|,|att..sn.1|,|att..1:-1.000|,|,|,,3,1,OO,-1,Svenskt frasnät (SweFN),0
+1716,21,min,PS.UTR.SIN.DEF,|jag|,|jag..pn.1|,|jag..1:-1.000|,|,|,,4,5,DT,-1,Svenskt frasnät (SweFN),0
+1716,21,faster,NN.UTR.SIN.IND.NOM,|faster|,|faster..nn.1|,|faster..1:-1.000|,|,|,,5,6,SS,-1,Svenskt frasnät (SweFN),0
+1716,21,känner,VB.PRS.AKT,|känna|känna sig|,|känna..vb.1|känna..vb.2|känna_sig..vbm.1|,|känna..2:0.645|känna..1:0.294|känna..4:0.053|känna..3:0.008|känna_sig..1:-1.000|,|,|,0.0,6,3,UA,-1,Svenskt frasnät (SweFN),0
+1716,21,sig,PN.UTR+NEU.SIN+PLU.DEF.OBJ,|sig|känna sig:06|,|sig..pn.1|känna_sig..vbm.1:06|,|sig..1:-1.000|känna_sig..1:06:-1.000|,|,|,,7,6,OO,-1,Svenskt frasnät (SweFN),0
+1716,21,skyldig,JJ.POS.UTR.SIN.IND.NOM,|skyldig|,|skyldig..av.1|,|skyldig..1:0.787|skyldig..2:0.128|skyldig..4:0.059|skyldig..3:0.026|,|,|,-1.0,8,6,OP,-1,Svenskt frasnät (SweFN),0
+1716,21,för,PP,|för|,|för..pp.1|,|för..1:-1.000|för..5:-1.000|för..6:-1.000|för..7:-1.000|för..9:-1.000|,|,|,,9,6,AA,-1,Svenskt frasnät (SweFN),0
+1716,21,att,SN,|att|,|att..sn.1|,|att..1:-1.000|,|,|,,10,9,HD,-1,Svenskt frasnät (SweFN),0
+1716,21,hon,PN.UTR.SIN.DEF.SUB,|hon|,|hon..pn.1|,|hon..1:-1.000|,|,|,,11,13,SS,-1,Svenskt frasnät (SweFN),0
+1716,21,inte,AB,|inte|,|inte..ab.1|,|inte..1:-1.000|,|,|,,12,13,,-1,Svenskt frasnät (SweFN),0
+1716,21,gjorde,VB.PRT.AKT,|göra|,|göra..vb.1|,|göra..1:0.899|göra..2:0.086|göra..3:0.015|,|,|,-0.0,13,9,UA,-1,Svenskt frasnät (SweFN),0
+1716,21,något,PN.NEU.SIN.IND.SUB+OBJ,|någon|,|någon..pn.1|,|någon..1:-1.000|,|,|,,14,13,OO,-1,Svenskt frasnät (SweFN),0
+1716,21,för,PP,|för|,|för..pp.1|,|för..1:-1.000|för..5:-1.000|för..6:-1.000|för..7:-1.000|för..9:-1.000|,|,|,,15,13,OA,-1,Svenskt frasnät (SweFN),0
+1716,21,att,IE,|att|,|att..sn.1|,|att..1:-1.000|,|,|,,16,15,PA,-1,Svenskt frasnät (SweFN),0
+1716,21,rädda,VB.INF.AKT,|rädda|,|rädda..vb.1|,|rädda..1:-1.000|,|,|,1.0,17,16,IF,-1,Svenskt frasnät (SweFN),0
+1716,21,sin,PS.UTR.SIN.DEF,|sig|,|sig..pn.1|,|sig..1:-1.000|,|,|,,18,19,DT,-1,Svenskt frasnät (SweFN),0
+1716,21,bror,NN.UTR.SIN.IND.NOM,|bror|,|bror..nn.1|,|bror..1:-1.000|,|,|,0.0,19,17,OO,-1,Svenskt frasnät (SweFN),0
+1716,21,?,MAD,|,|,|,|,|,,20,1,I?,-1,Svenskt frasnät (SweFN),0
+1716,21,.,MAD,|,|,|,|,|,,21,1,IP,-1,Svenskt frasnät (SweFN),0
+1016,14,Resan,NN.UTR.SIN.DEF.NOM,|resa|,|resa..nn.1|,|resa..2:0.968|resa..4:0.032|,|,|,-0.0,1,2,SS,-1,egna meningar,0
+1016,14,blev,VB.PRT.AKT,|bli|,|bli..vb.1|,|bli..1:0.737|bli..2:0.263|,|,|,-0.0,2,10,MS,-1,egna meningar,0
+1016,14,inte,AB,|inte|,|inte..ab.1|,|inte..1:-1.000|,|,|,,3,2,,-1,egna meningar,0
+1016,14,alls,AB,|alls|,|alls..ab.1|,|alls..1:-1.000|,|,|,,4,5,AA,-1,egna meningar,0
+1016,14,bra,AB.POS,|bra|,|bra..ab.1|bra..ab.2|bra..av.1|,|bra..1:0.639|bra..3:0.154|bra..5:0.112|bra..2:0.095|,|,|,,5,2,AA,-1,egna meningar,0
+1016,14,;,MID,|,|,|,|,|,,6,2,IS,-1,egna meningar,0
+1016,14,det,PN.NEU.SIN.DEF.SUB+OBJ,|den|,|den..pn.1|,|den..2:-1.000|,|,|,,7,10,SS,-1,egna meningar,0
+1016,14,bara,AB,|bara|,|bara..ab.1|,|bara..1:-1.000|,|,|,,8,9,CA,-1,egna meningar,0
+1016,14,regnade,VB.PRT.AKT,|regna|,|regna..vb.1|,|regna..1:0.991|regna..2:0.009|,|,|,,9,10,MS,-1,egna meningar,0
+1016,14,och,KN,|och|,|och..kn.1|,|och..1:-1.000|,|,|,,10,0,ROOT,-1,egna meningar,0
+1016,14,haglade,VB.PRT.AKT,|hagla|,|hagla..vb.1|,|hagla..1:-1.000|,|hage..nn.1+lägga..vb.1:1.597e-13|,|hag+lade|,,11,10,+F,-1,egna meningar,0
+1016,14,hela,JJ.POS.UTR+NEU.SIN.DEF.NOM,|hel|hela tiden|,|hel..av.1|hela_tiden..abm.1|,|hel..1:0.900|hel..2:0.100|hela_tiden..1:-1.000|,|,|,0.0,12,13,DT,-1,egna meningar,0
+1016,14,tiden,NN.UTR.SIN.DEF.NOM,|tid|hela tiden:12|,|tid..nn.1|hela_tiden..abm.1:12|,|tid..1:-1.000|hela_tiden..1:12:-1.000|,|,|,0.0,13,11,OO,-1,egna meningar,0
+1016,14,.,MAD,|,|,|,|,|,,14,10,IP,-1,egna meningar,0
+724,29,Jag,PN.UTR.SIN.DEF.SUB,|jag|,|jag..pn.1|,|jag..1:-1.000|,|,|,,1,2,SS,-1,Bloggmix 2017,1
+724,29,vet,VB.PRS.AKT,|veta|,|veta..vb.1|,|veta..1:-1.000|,|,|,0.0,2,15,MS,-1,Bloggmix 2017,1
+724,29,att,SN,|att|,|att..sn.1|,|att..1:-1.000|,|,|,,3,2,OO,-1,Bloggmix 2017,1
+724,29,jag,PN.UTR.SIN.DEF.SUB,|jag|,|jag..pn.1|,|jag..1:-1.000|,|,|,,4,5,SS,-1,Bloggmix 2017,1
+724,29,lovat,VB.SUP.AKT,|lova|,|lova..vb.1|lova..vb.2|,|lova..1:0.971|lova..3:0.017|lova..2:0.012|,|,|,1.0,5,3,UA,-1,Bloggmix 2017,1
+724,29,flera,JJ.POS.UTR+NEU.PLU.IND.NOM,|,|,|,|,|,,6,5,SP,-1,Bloggmix 2017,1
+724,29,på,PP,|på|,|på..pp.1|,|på..1:-1.000|,|,|,,7,5,TA,-1,Bloggmix 2017,1
+724,29,fyllan,NN.UTR.SIN.DEF.NOM,|fylla|,|fylla..nn.1|,|fylla..2:-1.000|,|fylla..vb.1+lan..nn.1:1.089e-13|fylla..nn.1+lan..nn.1:8.039e-20|,|fyll+lan|,-1.0,8,7,HD,-1,Bloggmix 2017,1
+724,29,att,SN,|att|,|att..sn.1|,|att..1:-1.000|,|,|,,9,5,OO,-1,Bloggmix 2017,1
+724,29,de,PN.UTR+NEU.PLU.DEF.SUB,|de|,|de..pn.1|,|de..1:-1.000|,|,|,,10,11,SS,-1,Bloggmix 2017,1
+724,29,kommer,VB.PRS.AKT,|komma|,|komma..vb.1|,|komma..1:0.627|komma..3:0.373|,|,|,0.0,11,9,UA,-1,Bloggmix 2017,1
+724,29,bli,VB.INF.AKT,|bli|,|bli..vb.1|,|bli..1:0.775|bli..2:0.225|,|,|,0.0,12,11,VG,-1,Bloggmix 2017,1
+724,29,bjudna,PC.PRF.UTR+NEU.PLU.IND+DEF.NOM,|bjuda|,|bjuda..vb.1|,|bjuda..2:0.793|bjuda..1:0.186|bjuda..3:0.022|,|,|,0.0,13,12,SP,-1,Bloggmix 2017,1
+724,29,",",MID,|,|,|,|,|,,14,2,IK,-1,Bloggmix 2017,1
+724,29,men,KN,|men|,|men..kn.1|,|men..1:-1.000|,|,|,,15,0,ROOT,-1,Bloggmix 2017,1
+724,29,hoppas,VB.PRS.SFO,|hoppa|hoppas|,|hoppa..vb.1|hoppas..vb.1|,|hoppas..1:0.626|hoppa..1:0.337|hoppa..2:0.036|,|,|,1.0,16,15,+F,-1,Bloggmix 2017,1
+724,29,alla,PN.UTR+NEU.PLU.IND.SUB+OBJ,|all|,|all..pn.1|,|all..1:-1.000|,|,|,,17,16,SS,-1,Bloggmix 2017,1
+724,29,förstår,VB.PRS.AKT,|förstå|,|förstå..vb.1|,|förstå..1:-1.000|,|föra..vb.1+stå..vb.1:1.396e-12|för..nn.1+stå..vb.1:1.735e-15|,|för+står|,0.0,18,16,VG,-1,Bloggmix 2017,1
+724,29,när,HA,|när|,|när..ab.1|,|när..1:0.904|nära..1:0.096|,|,|,,19,22,TA,-1,Bloggmix 2017,1
+724,29,det,PN.NEU.SIN.DEF.SUB+OBJ,|den|,|den..pn.1|,|den..2:-1.000|,|,|,,20,22,SS,-1,Bloggmix 2017,1
+724,29,väl,AB,|väl|,|väl..ab.1|väl_2..ab.1|,|väl..1:1.000|väl..2:0.000|,|,|,,21,22,AA,-1,Bloggmix 2017,1
+724,29,kommer,VB.PRS.AKT,|komma|komma till kritan|,|komma..vb.1|komma_till_kritan..vbm.1|,|komma..3:0.545|komma..1:0.455|komma_till_kritan..1:-1.000|,|,|,1.0,22,18,TA,-1,Bloggmix 2017,1
+724,29,till,PP,|till|komma till kritan:22|,|till..pp.1|komma_till_kritan..vbm.1:22|,|till..1:-1.000|komma_till_kritan..1:22:-1.000|,|,|,,23,22,PL,-1,Bloggmix 2017,1
+724,29,kritan,NN.UTR.SIN.DEF.NOM,|krita|komma till kritan:22|,|krita..nn.1|komma_till_kritan..vbm.1:22|,|krita..1:0.992|krita..4:0.007|krita..3:0.001|komma_till_kritan..1:22:-1.000|,|,|,,24,23,HD,-1,Bloggmix 2017,1
+724,29,att,SN,|att|,|att..sn.1|,|att..1:-1.000|,|,|,,25,22,OO,-1,Bloggmix 2017,1
+724,29,det,PN.NEU.SIN.DEF.SUB+OBJ,|den|,|den..pn.1|,|den..2:-1.000|,|,|,,26,28,SS,-1,Bloggmix 2017,1
+724,29,inte,AB,|inte|,|inte..ab.1|,|inte..1:-1.000|,|,|,,27,28,,-1,Bloggmix 2017,1
+724,29,funkar,VB.PRS.AKT,|funka|,|funka..vb.1|,|funka..1:-1.000|,|,|,-1.0,28,25,UA,-1,Bloggmix 2017,1
+724,29,.,MAD,|,|,|,|,|,,29,15,IP,-1,Bloggmix 2017,1
+754,10,De,PN.UTR+NEU.PLU.DEF.SUB,|de|,|de..pn.1|,|de..1:-1.000|,|,|,,1,2,SS,-1,Bloggmix 2017,1
+754,10,ser,VB.PRS.AKT,|se|,|se..vb.1|,|ses..1:0.731|se..4:0.085|se..1:0.070|se..5:0.050|se..2:0.033|se..3:0.027|se..6:0.004|,|,|,0.0,2,0,ROOT,-1,Bloggmix 2017,1
+754,10,vänner,NN.UTR.PLU.IND.NOM,|vän|,|vän..nn.1|,|vän..1:-1.000|,|,|,1.0,3,2,OO,-1,Bloggmix 2017,1
+754,10,de,PN.UTR+NEU.PLU.DEF.SUB,|de|,|de..pn.1|,|de..1:-1.000|,|,|,,4,7,SS,-1,Bloggmix 2017,1
+754,10,inte,AB,|inte|,|inte..ab.1|,|inte..1:-1.000|,|,|,,5,7,,-1,Bloggmix 2017,1
+754,10,bara,AB,|bara|,|bara..ab.1|,|bara..1:-1.000|,|,|,,6,7,CA,-1,Bloggmix 2017,1
+754,10,har,VB.PRS.AKT,|ha|,|ha..vb.1|,|ha..1:0.705|ha..3:0.295|,|,|,-0.0,7,2,MS,-1,Bloggmix 2017,1
+754,10,träffat,VB.SUP.AKT,|träffa|,|träffa..vb.1|,|träffa..2:0.756|träffa..1:0.175|träffa..3:0.069|,|,|,-0.0,8,7,VG,-1,Bloggmix 2017,1
+754,10,än,AB,|än|,|än..ab.1|,|än..1:-1.000|,|,|,,9,8,TA,-1,Bloggmix 2017,1
+754,10,.,MAD,|,|,|,|,|,,10,2,IP,-1,Bloggmix 2017,1
+1414,21,I,PP,|i|,|i..pp.1|,|i..2:-1.000|,|,|,,1,3,RA,-1,Bloggmix 2017,1
+1414,21,USA,PM.NOM,|USA|,|USA..pma.1|,|USA..1:-1.000|,|,|,,2,1,PA,-1,Bloggmix 2017,1
+1414,21,måste,VB.PRS.AKT,|måste|,|måste..vb.1|,|måste..1:-1.000|,|,|,0.0,3,16,MS,-1,Bloggmix 2017,1
+1414,21,man,PN.UTR.SIN.IND.SUB,|man|,|man..pn.1|,|man..1:-1.000|,|,|,,4,3,SS,-1,Bloggmix 2017,1
+1414,21,ha,VB.INF.AKT,|ha|,|ha..vb.1|,|ha..1:0.987|ha..3:0.013|,|,|,0.0,5,3,VG,-1,Bloggmix 2017,1
+1414,21,tillgång,NN.UTR.SIN.IND.NOM,|tillgång|,|tillgång..nn.1|,|tillgång..1:-1.000|,|till..ab.1+gång..nn.1:1.005e-08|till..ab.1+gång..nn.3:1.005e-08|till..ab.1+gång..nn.2:1.005e-08|,|till+gång|,1.0,6,5,OO,-1,Bloggmix 2017,1
+1414,21,till,PP,|till|,|till..pp.1|,|till..1:-1.000|,|,|,,7,5,PL,-1,Bloggmix 2017,1
+1414,21,miljarder,NN.UTR.PLU.IND.NOM,|miljard|,|miljard..nn.1|,|miljard..1:-1.000|,|,|,0.0,8,7,HD,-1,Bloggmix 2017,1
+1414,21,för,PP,|för|,|för..pp.1|,|för..1:-1.000|för..5:-1.000|för..6:-1.000|för..7:-1.000|för..9:-1.000|,|,|,,9,5,OA,-1,Bloggmix 2017,1
+1414,21,att,IE,|att|,|att..sn.1|,|att..1:-1.000|,|,|,,10,11,SS,-1,Bloggmix 2017,1
+1414,21,kunna,VB.INF.AKT,|kunna|,|kunna..vb.1|,|kunna..1:0.542|kunna..4:0.303|kunna..3:0.123|kunna..2:0.032|,|,|,0.0,11,5,VG,-1,Bloggmix 2017,1
+1414,21,delta,VB.INF.AKT,|delta|,|delta..vb.1|,|delta..1:-1.000|,|del..nn.1+ta..vb.1:6.247e-09|dela..vb.1+ta..vb.1:4.690e-20|,|del+ta|,0.0,12,11,VG,-1,Bloggmix 2017,1
+1414,21,i,PP,|i|,|i..pp.1|,|i..2:-1.000|,|,|,,13,12,OA,-1,Bloggmix 2017,1
+1414,21,presidentval,NN.UTR.SIN.IND.NOM,|presidentval|,|presidentval..nn.1|,|presidentval..1:-1.000|,|president..nn.1+val..nn.2:9.963e-10|president..nn.1+val..nn.1:9.963e-10|,|president+val|,,14,13,PA,-1,Bloggmix 2017,1
+1414,21,",",MID,|,|,|,|,|,,15,16,IK,-1,Bloggmix 2017,1
+1414,21,och,KN,|och|,|och..kn.1|,|och..1:-1.000|,|,|,,16,0,ROOT,-1,Bloggmix 2017,1
+1414,21,röstprocedurer,NN.UTR.PLU.IND.NOM,|röstprocedur|,|,|,|röst..nn.2+procedur..nn.1:8.766e-12|röste..nn.1+procedur..nn.1:8.766e-12|röst..nn.1+procedur..nn.1:8.766e-12|rösta..vb.1+procedur..nn.1:7.453e-22|,|röst+procedurer|,,17,18,SS,-1,Bloggmix 2017,1
+1414,21,utesluter,VB.PRS.AKT,|utesluta|,|utesluta..vb.1|,|utesluta..1:0.856|utesluta..3:0.079|utesluta..2:0.065|,|ute..ab.1+sluta..vb.3:4.552e-11|ute..av.1+sluta..vb.3:1.556e-21|,|ute+sluter|,0.0,18,16,MS,-1,Bloggmix 2017,1
+1414,21,miljontals,AB,|,|,|,|,|,,19,18,AA,-1,Bloggmix 2017,1
+1414,21,medborgare,NN.UTR.PLU.IND.NOM,|medborgare|,|medborgare..nn.1|,|medborgare..1:-1.000|,|mede..nn.1+borgare..nn.1:6.731e-20|,|med+borgare|,0.0,20,18,OO,-1,Bloggmix 2017,1
+1414,21,.,MAD,|,|,|,|,|,,21,16,IP,-1,Bloggmix 2017,1
+1975,9,Den,DT.UTR.SIN.DEF,|en|den|,|en..al.1|den..pn.1|,|den..1:-1.000|en..2:-1.000|den..2:-1.000|,|,|,,1,3,DT,-1,Svenskt frasnät (SweFN),0
+1975,9,stora,JJ.POS.UTR+NEU.SIN.DEF.NOM,|stor|,|stor..av.1|,|stor..1:-1.000|,|,|,0.0,2,3,AT,-1,Svenskt frasnät (SweFN),0
+1975,9,lavinen,NN.UTR.SIN.DEF.NOM,|lavin|,|lavin..nn.1|,|lavin..1:-1.000|,|,|,,3,4,SS,-1,Svenskt frasnät (SweFN),0
+1975,9,begravde,VB.PRT.AKT,|begrava|,|begrava..vb.1|,|begrava..1:-1.000|,|,|,,4,0,ROOT,-1,Svenskt frasnät (SweFN),0
+1975,9,alla,PN.UTR+NEU.PLU.IND.SUB+OBJ,|all|,|all..pn.1|,|all..1:-1.000|,|,|,,5,4,OO,-1,Svenskt frasnät (SweFN),0
+1975,9,som,HP.-.-.-,|,|,|,|,|,,6,7,SS,-1,Svenskt frasnät (SweFN),0
+1975,9,var,VB.PRT.AKT,|vara|vara med|,|vara..vb.1|vara_med..vbm.1|,|vara..1:-1.000|vara_med..1:-1.000|vara_med..2:-1.000|vara_med..3:-1.000|,|,|,0.0,7,5,ET,-1,Svenskt frasnät (SweFN),0
+1975,9,med,PL,|med|vara med:7|,|med..ab.1|vara_med..vbm.1:7|,|med..4:-1.000|vara_med..1:7:-1.000|vara_med..2:7:-1.000|vara_med..3:7:-1.000|,|,|,,8,7,PL,-1,Svenskt frasnät (SweFN),0
+1975,9,.,MAD,|,|,|,|,|,,9,4,IP,-1,Svenskt frasnät (SweFN),0
+1886,10,Alla,PN.UTR+NEU.PLU.IND.SUB+OBJ,|all|,|all..pn.1|,|all..1:-1.000|,|,|,,1,2,SS,-1,Svenskt frasnät (SweFN),1
+1886,10,bygger,VB.PRS.AKT,|bygga|bygga luftslott|,|bygga..vb.1|bygga_luftslott..vbm.1|,|bygga..1:-1.000|bygga_luftslott..1:-1.000|,|bygga..vb.1+ge..vb.1:6.069e-13|,|bygg+ger|,0.0,2,0,ROOT,-1,Svenskt frasnät (SweFN),1
+1886,10,romantiska,JJ.POS.UTR+NEU.PLU.IND+DEF.NOM,|romantisk|,|romantisk..av.1|romantisk..av.2|,|romantisk..1:0.937|romantisk..2:0.036|romantisk..3:0.026|,|,|,1.0,3,4,AT,-1,Svenskt frasnät (SweFN),1
+1886,10,luftslott,NN.NEU.PLU.IND.NOM,|luftslott|bygga luftslott:02|,|luftslott..nn.1|bygga_luftslott..vbm.1:02|,|luftslott..1:-1.000|bygga_luftslott..1:02:-1.000|,|luft..nn.2+slott..nn.1:4.792e-11|luft..nn.1+slott..nn.1:4.792e-11|luft..nn.1+slott..nn.2:4.792e-11|luft..nn.2+slott..nn.2:4.792e-11|,|luft+slott|,,4,2,OO,-1,Svenskt frasnät (SweFN),1
+1886,10,av,PP,|av|,|av..pp.1|,|av..1:-1.000|,|,|,,5,4,ET,-1,Svenskt frasnät (SweFN),1
+1886,10,sina,PS.UTR+NEU.PLU.DEF,|sig|,|sig..pn.1|,|sig..1:-1.000|,|,|,,6,7,DT,-1,Svenskt frasnät (SweFN),1
+1886,10,förväntningar,NN.UTR.PLU.IND.NOM,|förväntning|,|förväntning..nn.1|,|förväntning..1:-1.000|,|,|,1.0,7,5,PA,-1,Svenskt frasnät (SweFN),1
+1886,10,på,PP,|på|,|på..pp.1|,|på..1:-1.000|,|,|,,8,7,ET,-1,Svenskt frasnät (SweFN),1
+1886,10,livet,NN.NEU.SIN.DEF.NOM,|liv|,|liv..nn.1|,|liv..1:0.708|liv..5:0.126|liv..2:0.099|liv..6:0.058|liv..4:0.005|liv..3:0.004|,|,|,0.0,9,8,PA,-1,Svenskt frasnät (SweFN),1
+1886,10,.,MAD,|,|,|,|,|,,10,2,IP,-1,Svenskt frasnät (SweFN),1
+1995,16,Det,PN.NEU.SIN.DEF.SUB+OBJ,|den|,|den..pn.1|,|den..2:-1.000|,|,|,,1,2,SS,-1,Svenskt frasnät (SweFN),0
+1995,16,är,VB.PRS.AKT,|vara|,|vara..vb.1|,|vara..1:-1.000|,|,|,0.0,2,0,ROOT,-1,Svenskt frasnät (SweFN),0
+1995,16,ett,DT.NEU.SIN.IND,|en|,|en..al.1|,|den..1:-1.000|en..2:-1.000|,|,|,,3,5,DT,-1,Svenskt frasnät (SweFN),0
+1995,16,självklart,JJ.POS.NEU.SIN.IND.NOM,|självklar|,|självklar..av.1|,|självklar..1:-1.000|,|,|själv+klart|,1.0,4,5,AT,-1,Svenskt frasnät (SweFN),0
+1995,16,brott,NN.NEU.SIN.IND.NOM,|brott|,|brott..nn.1|brott..nn.2|,|brott..1:0.898|brott..3:0.083|brott..2:0.019|,|,|,-1.0,5,2,SP,-1,Svenskt frasnät (SweFN),0
+1995,16,mot,PP,|mot|,|mot..pp.1|,|mot..1:-1.000|mot..2:-1.000|,|,|,,6,2,OA,-1,Svenskt frasnät (SweFN),0
+1995,16,våra,PS.UTR+NEU.PLU.DEF,|vi|,|vi..pn.1|,|vi..1:-1.000|,|,|,,7,8,DT,-1,Svenskt frasnät (SweFN),0
+1995,16,regler,NN.UTR.PLU.IND.NOM,|regel|,|regel..nn.1|,|regel..1:-1.000|,|,|,0.0,8,6,PA,-1,Svenskt frasnät (SweFN),0
+1995,16,att,IE,|att|,|att..sn.1|,|att..1:-1.000|,|,|,,9,8,ET,-1,Svenskt frasnät (SweFN),0
+1995,16,utge,VB.INF.AKT,|utge|utge sig|,|utge..vb.1|utge_sig..vbm.1|,|ge_ut..1:-1.000|ge_sig_ut..1:-1.000|,|ut..ab.1+ge..vb.1:4.786e-08|,|ut+ge|,,10,9,IF,-1,Svenskt frasnät (SweFN),0
+1995,16,sig,PN.UTR+NEU.SIN+PLU.DEF.OBJ,|sig|utge sig:10|,|sig..pn.1|utge_sig..vbm.1:10|,|sig..1:-1.000|ge_sig_ut..1:10:-1.000|,|,|,,11,10,IO,-1,Svenskt frasnät (SweFN),0
+1995,16,att,IE,|att|,|att..sn.1|,|att..1:-1.000|,|,|,,12,10,OO,-1,Svenskt frasnät (SweFN),0
+1995,16,vara,VB.INF.AKT,|vara|,|vara..vb.1|vara..vb.2|,|vara..1:0.738|vara..2:0.230|vara..3:0.031|,|,|,0.0,13,12,IF,-1,Svenskt frasnät (SweFN),0
+1995,16,någon,DT.UTR.SIN.IND,|någon|,|någon..pn.1|,|någon..1:-1.000|,|,|,,14,15,DT,-1,Svenskt frasnät (SweFN),0
+1995,16,annan,JJ.POS.UTR.SIN.IND.NOM,|annan|,|annan..pn.1|,|annan..1:-1.000|,|,|,,15,13,SP,-1,Svenskt frasnät (SweFN),0
+1995,16,.,MAD,|,|,|,|,|,,16,2,IP,-1,Svenskt frasnät (SweFN),0
+944,26,Klockan,NN.UTR.SIN.DEF.NOM,|klocka|,|klocka..nn.1|,|klocka..1:0.993|klocka..2:0.007|,|,|,0.0,1,2,SS,-1,Bloggmix 2015,1
+944,26,var,VB.PRT.AKT,|vara|,|vara..vb.1|,|vara..1:-1.000|,|,|,0.0,2,6,MS,-1,Bloggmix 2015,1
+944,26,sju,RG.NOM,|sju|,|sju..nl.1|,|sju..1:-1.000|,|,|,,3,2,OO,-1,Bloggmix 2015,1
+944,26,på,PP,|på|,|på..pp.1|,|på..1:-1.000|,|,|,,4,3,ET,-1,Bloggmix 2015,1
+944,26,morgonen,NN.UTR.SIN.DEF.NOM,|morgon|,|morgon..nn.1|,|morgon..1:-1.000|,|mor..nn.1+gon..nn.1:1.371e-13|mor..nn.2+gon..nn.1:1.371e-13|mora..nn.1+gon..nn.1:1.371e-13|mor..nn.2+go..nn.2+n..nn.1:2.522e-25|mor..nn.2+go..nn.2+nen..nn.1:2.522e-25|mora..nn.1+go..nn.2+n..nn.1:2.522e-25|mor..nn.1+go..nn.2+n..nn.1:2.522e-25|mor..nn.2+go..nn.1+nen..nn.1:2.522e-25|mora..nn.1+go..nn.1+nen..nn.1:2.522e-25|mor..nn.1+go..nn.2+nen..nn.1:2.522e-25|mor..nn.2+go..nn.1+n..nn.1:2.522e-25|mora..nn.1+go..nn.1+n..nn.1:2.522e-25|mor..nn.1+go..nn.1+nen..nn.1:2.522e-25|mor..nn.1+go..nn.1+n..nn.1:2.522e-25|mora..nn.1+go..nn.2+nen..nn.1:2.522e-25|mor..nn.2+go..av.1+n..nn.1:9.768e-27|mora..nn.1+go..av.1+n..nn.1:9.768e-27|mor..nn.1+go..av.1+nen..nn.1:9.768e-27|mor..nn.1+go..av.1+n..nn.1:9.768e-27|mor..nn.2+go..av.1+nen..nn.1:9.768e-27|mora..nn.1+go..av.1+nen..nn.1:9.768e-27|,|mor+gonen|mor+go+nen|,0.0,5,4,PA,-1,Bloggmix 2015,1
+944,26,och,KN,|och|,|och..kn.1|,|och..1:-1.000|,|,|,,6,0,ROOT,-1,Bloggmix 2015,1
+944,26,vilken,HD.UTR.SIN.IND,|,|,|,|,|,,7,9,DT,-1,Bloggmix 2015,1
+944,26,normal,JJ.POS.UTR.SIN.IND.NOM,|normal|,|normal..av.1|,|normal..1:-1.000|,|,|,0.0,8,9,AT,-1,Bloggmix 2015,1
+944,26,människa,NN.UTR.SIN.IND.NOM,|människa|,|människa..nn.1|,|människa..1:-1.000|,|,|,0.0,9,15,CJ,-1,Bloggmix 2015,1
+944,26,som,HP.-.-.-,|,|,|,|,|,,10,12,SS,-1,Bloggmix 2015,1
+944,26,helst,AB.SUV,|gärna|,|gärna..ab.1|,|gärna..1:-1.000|,|,|,,11,12,MA,-1,Bloggmix 2015,1
+944,26,hade,VB.PRT.AKT,|ha|,|ha..vb.1|,|ha..1:0.652|ha..3:0.348|,|,|,0.0,12,9,ET,-1,Bloggmix 2015,1
+944,26,åkt,VB.SUP.AKT,|åka|,|åka..vb.1|,|åka..1:-1.000|,|,|,0.0,13,12,VG,-1,Bloggmix 2015,1
+944,26,hem,PL,|hem|,|hem..ab.1|,|hem..2:-1.000|,|,|,,14,13,PL,-1,Bloggmix 2015,1
+944,26,men,KN,|men|,|men..kn.1|,|men..1:-1.000|,|,|,,15,6,OO,-1,Bloggmix 2015,1
+944,26,jag,PN.UTR.SIN.DEF.SUB,|jag|,|jag..pn.1|,|jag..1:-1.000|,|,|,,16,17,SS,-1,Bloggmix 2015,1
+944,26,drog,VB.PRT.AKT,|dra|,|dra..vb.1|,|dra..1:0.752|dra..2:0.174|dra..3:0.074|dra..4:0.000|dra..5:0.000|,|,|,0.0,17,15,CJ,-1,Bloggmix 2015,1
+944,26,till,PP,|till|,|till..pp.1|,|till..1:-1.000|,|,|,,18,17,CA,-1,Bloggmix 2015,1
+944,26,Revolver,NN.UTR.SIN.IND.NOM,|revolver|,|revolver..nn.1|,|revolver..1:-1.000|,|,|,,19,18,HD,-1,Bloggmix 2015,1
+944,26,för,PP,|för|,|för..pp.1|,|för..1:-1.000|för..5:-1.000|för..6:-1.000|för..7:-1.000|för..9:-1.000|,|,|,,20,17,OA,-1,Bloggmix 2015,1
+944,26,att,IE,|att|,|att..sn.1|,|att..1:-1.000|,|,|,,21,20,PA,-1,Bloggmix 2015,1
+944,26,förlänga,VB.INF.AKT,|förlänga|,|förlänga..vb.1|,|förlänga..1:-1.000|,|föra..vb.1+länga..vb.1:3.062e-22|för..nn.1+länga..vb.1:3.805e-25|,|för+länga|,0.0,22,21,IF,-1,Bloggmix 2015,1
+944,26,festen,NN.UTR.SIN.DEF.NOM,|fest|,|fest..nn.1|,|fest..1:-1.000|,|fe..nn.1+sten..nn.1:7.320e-19|fe..nn.1+sten..nn.2:7.320e-19|,|fe+sten|,1.0,23,22,IO,-1,Bloggmix 2015,1
+944,26,några,DT.UTR+NEU.PLU.IND,|någon|,|någon..pn.1|,|någon..1:-1.000|,|,|,,24,25,DT,-1,Bloggmix 2015,1
+944,26,timmar,NN.UTR.PLU.IND.NOM,|timme|,|timme..nn.1|,|timme..1:-1.000|,|,|,0.0,25,22,OO,-1,Bloggmix 2015,1
+944,26,.,MAD,|,|,|,|,|,,26,6,IP,-1,Bloggmix 2015,1
+703,23,Fogh,PM.NOM,|,|,|,|,|,,1,0,ROOT,-1,Bloggmix 2017,0
+703,23,Rasmussen,PM.NOM,|Rasmussen|,|Rasmussen..pm.1|,|Rasmussen..1:-1.000|,|,|,,2,1,HD,-1,Bloggmix 2017,0
+703,23,",",MID,|,|,|,|,|,,3,1,IK,-1,Bloggmix 2017,0
+703,23,numera,AB,|numera|,|numera..ab.1|,|numera..1:-1.000|,|,|,,4,1,TA,-1,Bloggmix 2017,0
+703,23,Goldman,PM.NOM,|,|,|,|,|,,5,4,ET,-1,Bloggmix 2017,0
+703,23,Sachs,PM.NOM,|Sachs|,|Sachs..pm.1|,|Sachs..1:-1.000|,|,|,,6,5,HD,-1,Bloggmix 2017,0
+703,23,",",MID,|,|,|,|,|,,7,1,IK,-1,Bloggmix 2017,0
+703,23,motiverade,VB.PRT.AKT,|motivera|,|motivera..vb.1|,|motivera..1:-1.000|,|,|,-0.0,8,14,MS,-1,Bloggmix 2017,0
+703,23,inte,AB,|inte|,|inte..ab.1|,|inte..1:-1.000|,|,|,,9,8,,-1,Bloggmix 2017,0
+703,23,sitt,PS.NEU.SIN.DEF,|sig|,|sig..pn.1|,|sig..1:-1.000|,|,|,,10,11,DT,-1,Bloggmix 2017,0
+703,23,stöd,NN.NEU.SIN.IND.NOM,|stöd|,|stöd..nn.1|,|stöd..2:0.928|stöd..1:0.072|,|,|,-1.0,11,8,OO,-1,Bloggmix 2017,0
+703,23,för,PP,|för|,|för..pp.1|,|för..1:-1.000|för..5:-1.000|för..6:-1.000|för..7:-1.000|för..9:-1.000|,|,|,,12,8,OA,-1,Bloggmix 2017,0
+703,23,Irakkriget,NN.NEU.SIN.DEF.NOM,|Irakkrig|Irakkriget|,|,|,|Irak..pm.1+krig..nn.1:6.677e-14|Irak..pm.1+kria..nn.1+get..nn.1:4.536e-24|,|Irak+kriget|Irak+kri+get|,,13,12,PA,-1,Bloggmix 2017,0
+703,23,utan,KN,|utan|,|utan..kn.1|,|utan..2:-1.000|,|,|,,14,1,ET,-1,Bloggmix 2017,0
+703,23,med,PP,|med|,|med..pp.1|,|med..1:-1.000|med..2:-1.000|,|,|,,15,14,OA,-1,Bloggmix 2017,0
+703,23,att,SN,|att|,|att..sn.1|,|att..1:-1.000|,|,|,,16,15,PA,-1,Bloggmix 2017,0
+703,23,Saddam,PM.NOM,|Saddam|,|Saddam..pm.1|,|Saddam..1:-1.000|,|,|,,17,21,SS,-1,Bloggmix 2017,0
+703,23,inte,AB,|inte|,|inte..ab.1|,|inte..1:-1.000|,|,|,,18,21,,-1,Bloggmix 2017,0
+703,23,fult,AB.POS,|ful|,|ful..av.1|,|ful..1:-1.000|,|,|,1.0,19,21,TA,-1,Bloggmix 2017,0
+703,23,ut,AB,|ut|,|ut..ab.1|,|ut..1:0.930|ut..2:0.070|,|,|,,20,21,AA,-1,Bloggmix 2017,0
+703,23,efterlevt,VB.SUP.AKT,|efterleva|,|efterleva..vb.1|,|efterleva..1:-1.000|,|efter..av.1+leva..vb.1:9.557e-21|,|efter+levt|,,21,16,UA,-1,Bloggmix 2017,0
+703,23,FN-resolutionen,NN.UTR.SIN.DEF.NOM,|FN-resolution|,|,|,|FN..pma.1+resolution..nn.1:3.215e-27|,|FN-+resolutionen|,,22,21,OO,-1,Bloggmix 2017,0
+703,23,.,MAD,|,|,|,|,|,,23,1,IP,-1,Bloggmix 2017,0
+690,12,Jag,PN.UTR.SIN.DEF.SUB,|jag|,|jag..pn.1|,|jag..1:-1.000|,|,|,,1,2,SS,-1,Bloggmix 2017,1
+690,12,kan,VB.PRS.AKT,|kunna|,|kunna..vb.1|,|kunna..2:0.264|kunna..4:0.261|kunna..1:0.249|kunna..3:0.226|,|,|,1.0,2,9,MS,-1,Bloggmix 2017,1
+690,12,vinkla,VB.INF.AKT,|vinkla|,|vinkla..vb.1|,|vinkla..2:0.590|vinkla..1:0.410|,|vink..nn.1+lägga..vb.1:6.790e-13|vinka..vb.1+lägga..vb.1:2.273e-21|,|vink+la|,,3,2,VG,-1,Bloggmix 2017,1
+690,12,skärmen,NN.UTR.SIN.DEF.NOM,|skärm|,|skärm..nn.1|,|skärm..2:0.656|skärm..1:0.344|,|skära..nn.1+men..nn.2:2.786e-12|skär..nn.1+men..nn.2:2.786e-12|skära..nn.1+m..nn.1:2.786e-12|skära..nn.1+men..nn.1:2.786e-12|skär..nn.1+men..nn.1:2.786e-12|skär..nn.1+m..nn.1:2.786e-12|skära..vb.2+men..nn.2:1.235e-12|skära..vb.1+men..nn.2:1.235e-12|skära..vb.2+men..nn.1:1.235e-12|skära..vb.1+m..nn.1:1.235e-12|skära..vb.2+m..nn.1:1.235e-12|skära..vb.1+men..nn.1:1.235e-12|skär..av.1+men..nn.2:1.190e-12|skär..av.1+m..nn.1:1.190e-12|skär..av.1+men..nn.1:1.190e-12|,|skär+men|,,4,3,OO,-1,Bloggmix 2017,1
+690,12,i,PP,|i|,|i..pp.1|,|i..2:-1.000|,|,|,,5,3,RA,-1,Bloggmix 2017,1
+690,12,vissa,JJ.POS.UTR+NEU.PLU.IND+DEF.NOM,|viss|,|viss..av.1|,|viss..2:0.528|viss..1:0.472|,|,|,1.0,6,7,DT,-1,Bloggmix 2017,1
+690,12,lägen,NN.NEU.PLU.IND.NOM,|läge|,|läge..nn.1|,|läge..2:0.613|läge..1:0.387|,|lä..nn.1+gen..nn.1:4.989e-12|,|lä+gen|,0.0,7,5,PA,-1,Bloggmix 2017,1
+690,12,",",MID,|,|,|,|,|,,8,9,IK,-1,Bloggmix 2017,1
+690,12,men,KN,|men|,|men..kn.1|,|men..1:-1.000|,|,|,,9,0,ROOT,-1,Bloggmix 2017,1
+690,12,inte,AB,|inte|,|inte..ab.1|,|inte..1:-1.000|,|,|,,10,11,,-1,Bloggmix 2017,1
+690,12,utåt,AB,|utåt|,|utåt..ab.1|,|utåt..2:-1.000|,|,|,,11,9,+F,-1,Bloggmix 2017,1
+690,12,.,MAD,|,|,|,|,|,,12,9,IP,-1,Bloggmix 2017,1
+1164,24,Storbritanniens,PM.GEN,|Storbritannien|,|Storbritannien..pm.1|,|Storbritannien..1:-1.000|,|,|,,1,0,ROOT,-1,8 sidor,0
+1164,24,premiärminister,NN.UTR.SIN.IND.NOM,|premiärminister|,|premiärminister..nn.1|,|premiärminister..1:-1.000|,|premiär..nn.1+minister..nn.1:2.598e-11|premiär..nn.1+min..nn.1+ister..nn.1:5.078e-18|premiär..nn.1+mina..nn.1+ister..nn.1:5.078e-18|,|premiär+minister|premiär+min+ister|,0.0,2,3,DT,-1,8 sidor,0
+1164,24,Boris,PM.NOM,|Boris|,|Boris..pm.1|,|Boris..1:-1.000|,|,|,,3,5,SS,-1,8 sidor,0
+1164,24,Johnson,PM.NOM,|Johnson|,|Johnson..pm.1|,|Johnson..1:-1.000|,|,|,,4,3,HD,-1,8 sidor,0
+1164,24,har,VB.PRS.AKT,|ha|,|ha..vb.1|,|ha..1:0.804|ha..3:0.196|,|,|,0.0,5,1,OO,-1,8 sidor,0
+1164,24,sagt,VB.SUP.AKT,|säga|,|säga..vb.1|,|säga..1:0.905|säga..2:0.091|säga..3:0.005|,|,|,0.0,6,5,VG,-1,8 sidor,0
+1164,24,att,SN,|att|,|att..sn.1|,|att..1:-1.000|,|,|,,7,6,OO,-1,8 sidor,0
+1164,24,de,PN.UTR+NEU.PLU.DEF.SUB,|de|,|de..pn.1|,|de..1:-1.000|,|,|,,8,14,SS,-1,8 sidor,0
+1164,24,som,HP.-.-.-,|,|,|,|,|,,9,10,SS,-1,8 sidor,0
+1164,24,blir,VB.PRS.AKT,|bli|,|bli..vb.1|,|bli..1:0.677|bli..2:0.323|,|,|,0.0,10,8,ET,-1,8 sidor,0
+1164,24,dömda,PC.PRF.UTR+NEU.PLU.IND+DEF.NOM,|,|,|,|,|,,11,10,SP,-1,8 sidor,0
+1164,24,för,PP,|för|,|för..pp.1|,|för..1:-1.000|för..5:-1.000|för..6:-1.000|för..7:-1.000|för..9:-1.000|,|,|,,12,10,OA,-1,8 sidor,0
+1164,24,rasism,NN.UTR.SIN.IND.NOM,|rasism|,|rasism..nn.1|,|rasism..1:-1.000|,|ras..nn.1+ism..nn.1:2.067e-12|ras..nn.2+ism..nn.1:2.067e-12|,|ras+ism|,,13,12,PA,-1,8 sidor,0
+1164,24,är,VB.PRS.AKT,|vara|,|vara..vb.1|,|vara..1:-1.000|,|,|,-0.0,14,7,UA,-1,8 sidor,0
+1164,24,inte,AB,|inte|,|inte..ab.1|,|inte..1:-1.000|,|,|,,15,14,,-1,8 sidor,0
+1164,24,välkomna,VB.INF.AKT,|välkomna|,|välkomna..vb.1|,|välkomna..1:-1.000|,|,|,-1.0,16,14,VG,-1,8 sidor,0
+1164,24,att,IE,|att|,|att..sn.1|,|att..1:-1.000|,|,|,,17,19,SS,-1,8 sidor,0
+1164,24,komma,VB.INF.AKT,|komma|,|komma..vb.1|,|komma..3:0.575|komma..1:0.425|,|,|,1.0,18,19,CJ,-1,8 sidor,0
+1164,24,och,KN,|och|,|och..kn.1|,|och..1:-1.000|,|,|,,19,16,SP,-1,8 sidor,0
+1164,24,titta,VB.INF.AKT,|titta|,|titta..vb.1|,|titta..1:-1.000|,|titt..nn.1+ta..vb.1:9.223e-11|tita..nn.1+ta..vb.1:8.000e-13|titta..vb.1+ta..vb.1:4.690e-20|,|titt+ta|tit+ta|,0.0,20,19,CJ,-1,8 sidor,0
+1164,24,på,PP,|på|,|på..pp.1|,|på..1:-1.000|,|,|,,21,16,RA,-1,8 sidor,0
+1164,24,fotbollsmatcher,NN.UTR.PLU.IND.NOM,|fotbollsmatch|,|fotbollsmatch..nn.1|,|fotbollsmatch..1:-1.000|,|fotboll..nn.1+match..nn.1:2.635e-11|fotboll..nn.2+match..nn.1:2.635e-11|fot..nn.2+boll..nn.1+match..nn.1:5.284e-19|fot..nn.1+boll..nn.1+match..nn.1:5.284e-19|fota..vb.1+boll..nn.1+match..nn.1:2.196e-28|,|fotbolls+matcher|fot+bolls+matcher|,,22,21,PA,-1,8 sidor,0
+1164,24,sedan,AB,|sedan|,|sedan..ab.1|,|sedan..1:-1.000|,|,|,,23,16,TA,-1,8 sidor,0
+1164,24,.,MAD,|,|,|,|,|,,24,1,IP,-1,8 sidor,0
+1470,21,Även,AB,|även|även om|,|även..ab.1|även_om..snm.1|,|även..1:-1.000|även_om..1:-1.000|,|,|,,1,0,ROOT,-1,Bloggmix 2017,1
+1470,21,om,SN,|om|även om:01|,|om..sn.1|även_om..snm.1:01|,|om..2:-1.000|om..3:-1.000|även_om..1:01:-1.000|,|,|,,2,1,HD,-1,Bloggmix 2017,1
+1470,21,den,DT.UTR.SIN.DEF,|en|den|den här|,|en..al.1|den..pn.1|den_här..pnm.1|,|den..1:-1.000|en..2:-1.000|den..2:-1.000|den_här..1:-1.000|,|,|,,3,5,DT,-1,Bloggmix 2017,1
+1470,21,här,AB,|här|den här:03|,|här..ab.1|den_här..pnm.1:03|,|här..1:-1.000|den_här..1:03:-1.000|,|,|,,4,3,HD,-1,Bloggmix 2017,1
+1470,21,veckan,NN.UTR.SIN.DEF.NOM,|vecka|,|vecka..nn.1|,|vecka..1:-1.000|,|,|,0.0,5,6,SS,-1,Bloggmix 2017,1
+1470,21,varit,VB.SUP.AKT,|vara|,|vara..vb.1|,|vara..1:-1.000|,|,|,0.0,6,1,UA,-1,Bloggmix 2017,1
+1470,21,betydligt,AB,|betydlig|,|betydlig..av.1|,|betydlig..1:-1.000|,|,|,1.0,7,8,AA,-1,Bloggmix 2017,1
+1470,21,bättre,JJ.KOM.UTR+NEU.SIN+PLU.IND+DEF.NOM,|bra|god|,|bra..av.1|god..av.1|,|bra..3:0.487|god..1:0.223|god..3:0.185|bra..5:0.074|god..2:0.031|,|,|,1.0,8,6,SP,-1,Bloggmix 2017,1
+1470,21,än,KN,|,|,|,|,|,,9,6,KA,-1,Bloggmix 2017,1
+1470,21,förra,JJ.POS.UTR+NEU.SIN.DEF.NOM,|förra|,|förra..av.1|,|förra..1:-1.000|,|,|,0.0,10,11,DT,-1,Bloggmix 2017,1
+1470,21,veckan,NN.UTR.SIN.DEF.NOM,|vecka|,|vecka..nn.1|,|vecka..1:-1.000|,|,|,0.0,11,9,UA,-1,Bloggmix 2017,1
+1470,21,känner,VB.PRS.AKT,|känna|känna sig|,|känna..vb.1|känna..vb.2|känna_sig..vbm.1|,|känna..2:0.585|känna..1:0.293|känna..4:0.114|känna..3:0.007|känna_sig..1:-1.000|,|,|,-0.0,12,6,+F,-1,Bloggmix 2017,1
+1470,21,jag,PN.UTR.SIN.DEF.SUB,|jag|,|jag..pn.1|,|jag..1:-1.000|,|,|,,13,12,SS,-1,Bloggmix 2017,1
+1470,21,mig,PN.UTR.SIN.DEF.OBJ,|jag|känna sig:12|,|jag..pn.1|känna_sig..vbm.1:12|,|jag..1:-1.000|känna_sig..1:12:-1.000|,|,|,,14,12,OO,-1,Bloggmix 2017,1
+1470,21,ändå,AB,|ändå|,|ändå..ab.1|,|ändå..1:-1.000|,|,|,,15,12,+A,-1,Bloggmix 2017,1
+1470,21,inte,AB,|inte|,|inte..ab.1|,|inte..1:-1.000|,|,|,,16,12,,-1,Bloggmix 2017,1
+1470,21,hemma,AB,|hemma|,|hemma..ab.1|,|hemma..1:-1.000|,|,|,,17,12,CA,-1,Bloggmix 2017,1
+1470,21,på,PP,|på|,|på..pp.1|,|på..1:-1.000|,|,|,,18,12,PL,-1,Bloggmix 2017,1
+1470,21,jobbet,NN.NEU.SIN.DEF.NOM,|jobb|,|jobb..nn.1|,|jobb..1:0.983|jobb..2:0.017|,|jobb..nn.1+bet..nn.1:9.515e-18|,|jobb+bet|,0.0,19,18,HD,-1,Bloggmix 2017,1
+1470,21,längre,AB.KOM,|länge|längre|lång|,|länge..ab.1|längre..ab.1|lång..av.1|,|länge..1:0.540|längre..1:0.417|lång..1:0.042|,|,|,,20,12,TA,-1,Bloggmix 2017,1
+1470,21,.,MAD,|,|,|,|,|,,21,1,IP,-1,Bloggmix 2017,1
+687,23,Det,PN.NEU.SIN.DEF.SUB+OBJ,|den|,|den..pn.1|,|den..2:-1.000|,|,|,,1,2,SS,-1,Bloggmix 2017,1
+687,23,har,VB.PRS.AKT,|ha|,|ha..vb.1|,|ha..1:0.796|ha..3:0.204|,|,|,0.0,2,13,MS,-1,Bloggmix 2017,1
+687,23,absolut,AB.POS,|absolut|,|absolut..av.1|absolut..ab.1|,|absolut..2:0.698|absolut..1:0.302|,|,|,,3,2,TA,-1,Bloggmix 2017,1
+687,23,sin,PS.UTR.SIN.DEF,|sig|,|sig..pn.1|,|sig..1:-1.000|,|,|,,4,5,DT,-1,Bloggmix 2017,1
+687,23,charm,NN.UTR.SIN.IND.NOM,|charm|,|charm..nn.1|,|charm..1:-1.000|,|,|,1.0,5,2,OO,-1,Bloggmix 2017,1
+687,23,",",MID,|,|,|,|,|,,6,2,IK,-1,Bloggmix 2017,1
+687,23,jag,PN.UTR.SIN.DEF.SUB,|jag|,|jag..pn.1|,|jag..1:-1.000|,|,|,,7,8,SS,-1,Bloggmix 2017,1
+687,23,gnäller,VB.PRS.AKT,|gnälla|,|gnälla..vb.1|,|gnälla..1:-1.000|,|gnäll..nn.1+le..vb.1:2.039e-12|gnälla..vb.1+le..vb.1:9.611e-22|,|gnäll+ler|,1.0,8,2,MS,-1,Bloggmix 2017,1
+687,23,inte,AB,|inte|,|inte..ab.1|,|inte..1:-1.000|,|,|,,9,8,,-1,Bloggmix 2017,1
+687,23,över,PP,|över|,|över..pp.1|,|över..1:-1.000|över..2:-1.000|,|,|,,10,8,OA,-1,Bloggmix 2017,1
+687,23,det,PN.NEU.SIN.DEF.SUB+OBJ,|den|,|den..pn.1|,|den..2:-1.000|,|,|,,11,10,PA,-1,Bloggmix 2017,1
+687,23,",",MID,|,|,|,|,|,,12,8,IK,-1,Bloggmix 2017,1
+687,23,för,KN,|för|,|för..kn.1|,|för..2:-1.000|,|,|,,13,0,ROOT,-1,Bloggmix 2017,1
+687,23,det,PN.NEU.SIN.DEF.SUB+OBJ,|den|,|den..pn.1|,|den..2:-1.000|,|,|,,14,15,SS,-1,Bloggmix 2017,1
+687,23,är,VB.PRS.AKT,|vara|,|vara..vb.1|,|vara..1:-1.000|,|,|,0.0,15,13,MS,-1,Bloggmix 2017,1
+687,23,super,VB.PRS.AKT,|supa|,|supa..vb.1|,|supa..1:-1.000|,|,|,,16,15,VG,-1,Bloggmix 2017,1
+687,23,kul,JJ.POS.UTR+NEU.SIN+PLU.IND+DEF.NOM,|kul|,|kul..av.1|,|kul..1:-1.000|,|,|,1.0,17,18,CJ,-1,Bloggmix 2017,1
+687,23,och,KN,|och|,|och..kn.1|,|och..1:-1.000|,|,|,,18,16,SP,-1,Bloggmix 2017,1
+687,23,mysigt,JJ.POS.NEU.SIN.IND.NOM,|mysig|,|mysig..av.1|,|mysig..1:-1.000|,|,|,1.0,19,18,CJ,-1,Bloggmix 2017,1
+687,23,att,IE,|att|,|att..sn.1|,|att..1:-1.000|,|,|,,20,16,ES,-1,Bloggmix 2017,1
+687,23,träffa,VB.INF.AKT,|träffa|,|träffa..vb.1|,|träffa..2:0.810|träffa..1:0.128|träffa..3:0.062|,|,|,0.0,21,20,IF,-1,Bloggmix 2017,1
+687,23,alla,PN.UTR+NEU.PLU.IND.SUB+OBJ,|all|,|all..pn.1|,|all..1:-1.000|,|,|,,22,21,OO,-1,Bloggmix 2017,1
+687,23,!,MAD,|,|,|,|,|,,23,13,IU,-1,Bloggmix 2017,1
+128,17,Det,PN.NEU.SIN.DEF.SUB+OBJ,|den|,|den..pn.1|,|den..2:-1.000|,|,|,,1,2,SS,-1,egna meningar,0
+128,17,känns,VB.PRS.SFO,|känna|kännas|,|känna..vb.1|känna..vb.2|kännas..vb.1|,|kännas..1:0.518|känna..1:0.217|känna..2:0.197|känna..4:0.059|känna..3:0.008|,|,|,0.0,2,0,ROOT,-1,egna meningar,0
+128,17,som,KN,|,|,|,|,|,,3,2,KA,-1,egna meningar,0
+128,17,allt,PN.NEU.SIN.IND.SUB+OBJ,|all|,|all..pn.1|,|all..1:-1.000|,|,|,,4,5,SS,-1,egna meningar,0
+128,17,går,VB.PRS.AKT,|gå|gå emot|,|gå..vb.1|gå_emot..vbm.1|,|gå..7:0.325|gå..1:0.173|gå..2:0.161|gå..4:0.069|gå..6:0.068|gå..8:0.050|gå..11:0.041|gå..5:0.036|gå..10:0.032|gå..3:0.025|gå..9:0.019|gå_emot..1:-1.000|,|,|,1.0,5,3,UA,-1,egna meningar,0
+128,17,emot,PL,|gå emot:05|,|gå_emot..vbm.1:05|,|gå_emot..1:05:-1.000|,|,|,,6,5,PL,-1,egna meningar,0
+128,17,mig,PN.UTR.SIN.DEF.OBJ,|jag|,|jag..pn.1|,|jag..1:-1.000|,|,|,,7,5,IO,-1,egna meningar,0
+128,17,idag,AB,|idag|,|idag..ab.1|,|i_dag..1:-1.000|i_dag..2:-1.000|,|,|,,8,5,TA,-1,egna meningar,0
+128,17,",",MID,|,|,|,|,|,,9,2,IK,-1,egna meningar,0
+128,17,jag,PN.UTR.SIN.DEF.SUB,|jag|,|jag..pn.1|,|jag..1:-1.000|,|,|,,10,11,SS,-1,egna meningar,0
+128,17,har,VB.PRS.AKT,|ha|,|ha..vb.1|,|ha..1:0.832|ha..3:0.168|,|,|,0.0,11,2,MS,-1,egna meningar,0
+128,17,otur,NN.UTR.SIN.IND.NOM,|otur|,|otur..nn.1|,|otur..1:-1.000|,|,|,-1.0,12,11,OO,-1,egna meningar,0
+128,17,i,PP,|i|,|i..pp.1|,|i..2:-1.000|,|,|,,13,11,AA,-1,egna meningar,0
+128,17,allt,PN.NEU.SIN.IND.SUB+OBJ,|all|,|all..pn.1|,|all..1:-1.000|,|,|,,14,13,HD,-1,egna meningar,0
+128,17,jag,PN.UTR.SIN.DEF.SUB,|jag|,|jag..pn.1|,|jag..1:-1.000|,|,|,,15,16,SS,-1,egna meningar,0
+128,17,gör,VB.PRS.AKT,|göra|,|göra..vb.1|,|göra..1:0.879|göra..2:0.079|göra..3:0.043|,|,|,0.0,16,13,UA,-1,egna meningar,0
+128,17,.,MAD,|,|,|,|,|,,17,2,IP,-1,egna meningar,0
+751,11,När,HA,|när|,|när..ab.1|,|när..1:0.838|nära..1:0.162|,|,|,,1,3,TA,-1,Bloggmix 2017,0
+751,11,jag,PN.UTR.SIN.DEF.SUB,|jag|,|jag..pn.1|,|jag..1:-1.000|,|,|,,2,3,SS,-1,Bloggmix 2017,0
+751,11,duschade,VB.PRT.AKT,|duscha|,|duscha..vb.1|,|duscha..1:-1.000|,|,|,,3,5,TA,-1,Bloggmix 2017,0
+751,11,imorse,AB,|imorse|,|imorse..ab.1|,|i_morse..1:-1.000|,|,|,,4,3,AA,-1,Bloggmix 2017,0
+751,11,kollade,VB.PRT.AKT,|kolla|kolla in|,|kolla..vb.1|kolla..vb.2|kolla_in..vbm.1|,|kolla..2:0.975|kolla..1:0.025|kolla_in..1:-1.000|,|koll..nn.2+lägga..vb.1:2.583e-11|koll..nn.1+lägga..vb.1:2.583e-11|kol..nn.1+lägga..vb.1:1.741e-12|kola_2..vb.1+lägga..vb.1:1.353e-21|kola..vb.1+lägga..vb.1:1.353e-21|,|koll+lade|kol+lade|,,5,0,ROOT,-1,Bloggmix 2017,0
+751,11,jag,PN.UTR.SIN.DEF.SUB,|jag|,|jag..pn.1|,|jag..1:-1.000|,|,|,,6,5,SS,-1,Bloggmix 2017,0
+751,11,inte,AB,|inte|,|inte..ab.1|,|inte..1:-1.000|,|,|,,7,5,,-1,Bloggmix 2017,0
+751,11,in,PL,|in|kolla in:05|,|in..ab.1|kolla_in..vbm.1:05|,|in..1:-1.000|kolla_in..1:05:-1.000|,|,|,,8,5,PL,-1,Bloggmix 2017,0
+751,11,mina,PS.UTR+NEU.PLU.DEF,|jag|,|jag..pn.1|,|jag..1:-1.000|,|,|,,9,10,DT,-1,Bloggmix 2017,0
+751,11,armhålor,NN.UTR.PLU.IND.NOM,|armhåla|,|armhåla..nn.1|,|armhåla..1:-1.000|,|arm..nn.1+håla..nn.1:3.240e-12|arm..av.1+håla..nn.1:1.946e-21|,|arm+hålor|,,10,5,OO,-1,Bloggmix 2017,0
+751,11,.,MAD,|,|,|,|,|,,11,5,IP,-1,Bloggmix 2017,0
+570,34,Trots,PP,|trots|,|trots..pp.1|,|trots..1:-1.000|,|,|,,1,7,AA,-1,Dagens Arena,1
+570,34,hoten,NN.NEU.PLU.DEF.NOM,|hot|,|hot..nn.1|,|hot..1:-1.000|,|ho..nn.1+ten..nn.1:6.863e-12|,|ho+ten|,-1.0,2,1,PA,-1,Dagens Arena,1
+570,34,som,HP.-.-.-,|,|,|,|,|,,3,4,SS,-1,Dagens Arena,1
+570,34,fanns,VB.PRT.SFO,|finna|finnas|,|finna..vb.1|finnas..vb.1|,|finna..2:0.532|finna..1:0.258|finnas..1:0.211|,|,|,0.0,4,2,ET,-1,Dagens Arena,1
+570,34,mot,PP,|mot|,|mot..pp.1|,|mot..1:-1.000|mot..2:-1.000|,|,|,,5,4,OA,-1,Dagens Arena,1
+570,34,henne,PN.UTR.SIN.DEF.OBJ,|hon|,|hon..pn.1|,|hon..1:-1.000|,|,|,,6,5,PA,-1,Dagens Arena,1
+570,34,återvände,VB.PRT.AKT,|återvända|,|återvända..vb.1|,|återvända..1:-1.000|,|åter..ab.1+vända..vb.2:4.027e-11|åter..ab.1+vända..vb.1:4.027e-11|åt..nn.1+era..nn.1+vända..vb.1:5.184e-36|åt..nn.1+era..nn.1+vända..vb.2:5.184e-36|,|åter+vände|åt+er+vände|,0.0,7,0,ROOT,-1,Dagens Arena,1
+570,34,hon,PN.UTR.SIN.DEF.SUB,|hon|,|hon..pn.1|,|hon..1:-1.000|,|,|,,8,7,SS,-1,Dagens Arena,1
+570,34,från,PP,|från|,|från..pp.1|,|från..1:-1.000|,|,|,,9,7,RA,-1,Dagens Arena,1
+570,34,exilen,NN.UTR.SIN.DEF.NOM,|exil|,|exil..nn.1|,|exil..1:-1.000|,|ex..sxc.1+il..nn.1:7.356e-13|ex..nn.1+il..nn.1:7.356e-13|,|ex+ilen|,,10,9,PA,-1,Dagens Arena,1
+570,34,i,PP,|i|,|i..pp.1|,|i..2:-1.000|,|,|,,11,10,ET,-1,Dagens Arena,1
+570,34,London,PM.NOM,|London|,|London..pm.1|London..pm.2|,|London..1:-1.000|London..2:-1.000|,|,|,,12,11,PA,-1,Dagens Arena,1
+570,34,",",MID,|,|,|,|,|,,13,7,IK,-1,Dagens Arena,1
+570,34,för,PP,|för|,|för..pp.1|,|för..1:-1.000|för..5:-1.000|för..6:-1.000|för..7:-1.000|för..9:-1.000|,|,|,,14,7,OA,-1,Dagens Arena,1
+570,34,att,IE,|att|,|att..sn.1|,|att..1:-1.000|,|,|,,15,22,MS,-1,Dagens Arena,1
+570,34,ställa,VB.INF.AKT,|ställa|ställa upp|,|ställa..vb.1|ställa_upp..vbm.1|,|ställa..1:0.945|uppställa..1:0.030|ställa..4:0.011|ställa..2:0.008|ställa..3:0.006|ställa_upp..1:-1.000|ställa_upp..2:-1.000|ställa_upp..3:-1.000|ställa_upp..4:-1.000|,|ställ..nn.1+lägga..vb.1:5.308e-13|ställa..vb.1+lägga..vb.1:1.542e-13|,|ställ+la|,0.0,16,15,IF,-1,Dagens Arena,1
+570,34,upp,PL,|upp|ställa upp:16|,|upp..ab.1|ställa_upp..vbm.1:16|,|upp..1:1.000|uppställa..1:16:0.000|ställa_upp..1:16:-1.000|ställa_upp..2:16:-1.000|ställa_upp..3:16:-1.000|ställa_upp..4:16:-1.000|,|,|,,17,16,PL,-1,Dagens Arena,1
+570,34,i,PP,|i|,|i..pp.1|,|i..2:-1.000|,|,|,,18,16,RA,-1,Dagens Arena,1
+570,34,ett,DT.NEU.SIN.IND,|en|,|en..al.1|,|den..1:-1.000|en..2:-1.000|,|,|,,19,21,DT,-1,Dagens Arena,1
+570,34,demokratiskt,JJ.POS.NEU.SIN.IND.NOM,|demokratisk|,|demokratisk..av.1|,|demokratisk..1:-1.000|,|,|,1.0,20,21,DT,-1,Dagens Arena,1
+570,34,val,NN.NEU.SIN.IND.NOM,|val|,|val..nn.1|,|val..4:0.871|val..1:0.129|,|,|,0.0,21,18,PA,-1,Dagens Arena,1
+570,34,och,KN,|och|,|och..kn.1|,|och..1:-1.000|,|,|,,22,23,SS,-1,Dagens Arena,1
+570,34,vara,VB.INF.AKT,|vara|vara med|,|vara..vb.1|vara..vb.2|vara_med..vbm.1|,|vara..1:0.914|vara..2:0.044|vara..3:0.042|vara_med..1:-1.000|vara_med..2:-1.000|vara_med..3:-1.000|,|,|,0.0,23,14,PA,-1,Dagens Arena,1
+570,34,med,PL,|med|vara med:23|,|med..ab.1|vara_med..vbm.1:23|,|med..4:-1.000|vara_med..1:23:-1.000|vara_med..2:23:-1.000|vara_med..3:23:-1.000|,|,|,,24,23,PL,-1,Dagens Arena,1
+570,34,i,PP,|i|,|i..pp.1|,|i..2:-1.000|,|,|,,25,23,SP,-1,Dagens Arena,1
+570,34,arbetet,NN.NEU.SIN.DEF.NOM,|arbete|,|arbete..nn.1|,|arbete..1:0.938|arbete..2:0.062|,|ar..nn.1+bete..nn.1:3.414e-11|,|ar+betet|,0.0,26,25,HD,-1,Dagens Arena,1
+570,34,att,IE,|att|,|att..sn.1|,|att..1:-1.000|,|,|,,27,23,OA,-1,Dagens Arena,1
+570,34,leda,VB.INF.AKT,|leda|,|leda..vb.1|leda..vb.2|,|leda..7:0.617|leda..1:0.217|leda..2:0.047|leda..5:0.042|leda..8:0.040|leda..6:0.029|leda..4:0.007|,|,|,0.0,28,27,IF,-1,Dagens Arena,1
+570,34,sitt,PS.NEU.SIN.DEF,|sig|,|sig..pn.1|,|sig..1:-1.000|,|,|,,29,30,DT,-1,Dagens Arena,1
+570,34,land,NN.NEU.SIN.IND.NOM,|land|,|land..nn.1|land..nn.2|land..nn.3|,|land..1:0.712|land..3:0.166|land..2:0.122|,|,|,0.0,30,28,OO,-1,Dagens Arena,1
+570,34,på,PP,|på|,|på..pp.1|,|på..1:-1.000|,|,|,,31,28,OA,-1,Dagens Arena,1
+570,34,rätt,JJ.POS.UTR.SIN.IND.NOM,|rätt|,|rätt..av.1|,|rätt..1:-1.000|,|,|,1.0,32,33,DT,-1,Dagens Arena,1
+570,34,väg,NN.UTR.SIN.IND.NOM,|väg|,|väg..nn.1|,|väg..2:0.915|väg..1:0.085|,|,|,0.0,33,31,PA,-1,Dagens Arena,1
+570,34,.,MAD,|,|,|,|,|,,34,7,IP,-1,Dagens Arena,1
+110,10,Jag,PN.UTR.SIN.DEF.SUB,|jag|,|jag..pn.1|,|jag..1:-1.000|,|,|,,1,2,SS,-1,egna meningar,1
+110,10,glömde,VB.PRT.AKT,|glömma|,|glömma..vb.1|,|glömma..1:0.989|glömma..2:0.011|,|,|,0.0,2,0,ROOT,-1,egna meningar,1
+110,10,min,PS.UTR.SIN.DEF,|jag|,|jag..pn.1|,|jag..1:-1.000|,|,|,,3,4,DT,-1,egna meningar,1
+110,10,plånbok,NN.UTR.SIN.IND.NOM,|plånbok|,|plånbok..nn.1|,|plånbok..1:-1.000|,|plån..nn.1+bok..nn.1:9.214e-13|plån..nn.1+bok..nn.2:9.214e-13|,|plån+bok|,,4,2,OO,-1,egna meningar,1
+110,10,hemma,AB,|hemma|,|hemma..ab.1|,|hemma..1:-1.000|,|,|,,5,8,CA,-1,egna meningar,1
+110,10,när,HA,|när|,|när..ab.1|,|när..1:0.847|nära..1:0.153|,|,|,,6,8,TA,-1,egna meningar,1
+110,10,jag,PN.UTR.SIN.DEF.SUB,|jag|,|jag..pn.1|,|jag..1:-1.000|,|,|,,7,8,SS,-1,egna meningar,1
+110,10,gick,VB.PRT.AKT,|gå|gå ut|,|gå..vb.1|gå_ut..vbm.1|,|gå..7:0.453|gå..2:0.225|gå..1:0.201|gå..8:0.043|gå..6:0.024|gå..11:0.018|gå..5:0.009|gå..4:0.008|gå..10:0.007|gå..3:0.005|gå..9:0.005|gå_ut..1:-1.000|gå_ut..2:-1.000|gå_ut..3:-1.000|gå_ut..4:-1.000|gå_ut..5:-1.000|gå_ut..6:-1.000|,|,|,1.0,8,2,TA,-1,egna meningar,1
+110,10,ut,PL,|ut|gå ut:08|,|ut..ab.1|gå_ut..vbm.1:08|,|ut..2:0.861|ut..1:0.139|gå_ut..1:08:-1.000|gå_ut..2:08:-1.000|gå_ut..3:08:-1.000|gå_ut..4:08:-1.000|gå_ut..5:08:-1.000|gå_ut..6:08:-1.000|,|,|,,9,8,PL,-1,egna meningar,1
+110,10,.,MAD,|,|,|,|,|,,10,2,IP,-1,egna meningar,1
+802,24,Livsmedelsindustrin,NN.UTR.SIN.DEF.NOM,|livsmedelsindustri|,|livsmedelsindustri..nn.1|,|livsmedelsindustri..1:-1.000|,|livsmedel..nn.1+industri..nn.1:7.547e-14|livs..nn.1+medel..nn.1+industri..nn.1:6.490e-20|liv..nn.1+medel..nn.1+industri..nn.1:6.490e-20|livs..av.1+medel..nn.1+industri..nn.1:1.974e-27|,|livsmedels+industrin|livs+medels+industrin|,,1,2,SS,-1,Bloggmix 2016,1
+802,24,producerar,VB.PRS.AKT,|producera|,|producera..vb.1|,|producera..1:-1.000|,|,|,-0.0,2,11,MS,-1,Bloggmix 2016,1
+802,24,inte,AB,|inte|,|inte..ab.1|,|inte..1:-1.000|,|,|,,3,2,,-1,Bloggmix 2016,1
+802,24,främst,AB.SUV,|främst|,|främst..ab.1|främst..av.1|,|främst..1:0.748|främst..3:0.234|främst..2:0.017|,|,|,,4,2,CA,-1,Bloggmix 2016,1
+802,24,det,PN.NEU.SIN.DEF.SUB+OBJ,|den|,|den..pn.1|,|den..2:-1.000|,|,|,,5,11,CJ,-1,Bloggmix 2016,1
+802,24,som,HP.-.-.-,|,|,|,|,|,,6,7,SS,-1,Bloggmix 2016,1
+802,24,är,VB.PRS.AKT,|vara|,|vara..vb.1|,|vara..1:-1.000|,|,|,0.0,7,5,ET,-1,Bloggmix 2016,1
+802,24,bra,JJ.POS.UTR+NEU.SIN+PLU.IND+DEF.NOM,|bra|,|bra..av.2|,|bra..4:-1.000|,|,|,1.0,8,7,SP,-1,Bloggmix 2016,1
+802,24,för,PP,|för|,|för..pp.1|,|för..1:-1.000|för..5:-1.000|för..6:-1.000|för..7:-1.000|för..9:-1.000|,|,|,,9,7,OA,-1,Bloggmix 2016,1
+802,24,oss,PN.UTR.PLU.DEF.OBJ,|vi|,|vi..pn.1|,|vi..1:-1.000|,|,|,,10,9,PA,-1,Bloggmix 2016,1
+802,24,och,KN,|och|,|och..kn.1|,|och..1:-1.000|,|,|,,11,0,ROOT,-1,Bloggmix 2016,1
+802,24,vår,PS.UTR.SIN.DEF,|vi|,|vi..pn.1|,|vi..1:-1.000|,|,|,,12,13,DT,-1,Bloggmix 2016,1
+802,24,planet,NN.UTR.SIN.IND.NOM,|planet|,|planet..nn.1|,|planet..1:-1.000|,|,|,0.0,13,11,+F,-1,Bloggmix 2016,1
+802,24,utan,PP,|utan|,|utan..pp.1|,|utan..1:-1.000|,|,|,,14,13,ET,-1,Bloggmix 2016,1
+802,24,vad,HP.NEU.SIN.IND,|vad|,|vad..pn.1|,|vad..1:-1.000|,|,|,,15,17,SS,-1,Bloggmix 2016,1
+802,24,som,HP.-.-.-,|,|,|,|,|,,16,17,XX,-1,Bloggmix 2016,1
+802,24,går,VB.PRS.AKT,|gå|,|gå..vb.1|,|gå..7:0.338|gå..6:0.156|gå..10:0.117|gå..2:0.062|gå..3:0.057|gå..11:0.053|gå..5:0.051|gå..4:0.048|gå..1:0.047|gå..8:0.042|gå..9:0.029|,|,|,1.0,17,14,PA,-1,Bloggmix 2016,1
+802,24,att,IE,|att|,|att..sn.1|,|att..1:-1.000|,|,|,,18,17,OA,-1,Bloggmix 2016,1
+802,24,sälja,VB.INF.AKT,|sälja|,|sälja..vb.1|,|sälja..1:-1.000|,|,|,0.0,19,18,IF,-1,Bloggmix 2016,1
+802,24,till,PP,|till|,|till..pp.1|,|till..1:-1.000|,|,|,,20,19,OA,-1,Bloggmix 2016,1
+802,24,minsta,JJ.SUV.UTR+NEU.SIN+PLU.DEF.NOM,|liten|,|liten..av.1|,|liten..1:-1.000|,|,|,0.0,21,23,AT,-1,Bloggmix 2016,1
+802,24,möjliga,JJ.POS.UTR+NEU.SIN.DEF.NOM,|möjlig|,|möjlig..av.1|,|möjlig..1:0.810|möjlig..2:0.190|,|,|,1.0,22,23,AT,-1,Bloggmix 2016,1
+802,24,kostnad,NN.UTR.SIN.IND.NOM,|kostnad|,|kostnad..nn.1|,|kostnad..1:-1.000|,|,|,0.0,23,20,PA,-1,Bloggmix 2016,1
+802,24,.,MAD,|,|,|,|,|,,24,11,IP,-1,Bloggmix 2016,1
+1423,15,Artikeln,NN.UTR.SIN.DEF.NOM,|artikel|,|artikel..nn.1|,|artikel..1:0.977|artikel..2:0.013|artikel..3:0.010|,|,|,0.0,1,2,SS,-1,Bloggmix 2017,1
+1423,15,är,VB.PRS.AKT,|vara|,|vara..vb.1|,|vara..1:-1.000|,|,|,0.0,2,0,ROOT,-1,Bloggmix 2017,1
+1423,15,full,JJ.POS.UTR.SIN.IND.NOM,|full|,|full..av.1|,|full..1:0.980|full..2:0.020|,|,|,0.0,3,2,SP,-1,Bloggmix 2017,1
+1423,15,av,PP,|av|,|av..pp.1|,|av..1:-1.000|,|,|,,4,2,AG,-1,Bloggmix 2017,1
+1423,15,påståenden,NN.NEU.PLU.IND.NOM,|påstående|,|påstående..nn.1|,|påstående..1:-1.000|,|på..av.1+stående..nn.1:4.682e-23|,|på+ståenden|,0.0,5,4,PA,-1,Bloggmix 2017,1
+1423,15,som,HP.-.-.-,|,|,|,|,|,,6,8,SS,-1,Bloggmix 2017,1
+1423,15,inte,AB,|inte|,|inte..ab.1|,|inte..1:-1.000|,|,|,,7,8,,-1,Bloggmix 2017,1
+1423,15,backas,VB.PRS.SFO,|backa|backa upp|,|backa..vb.1|backa..vb.2|backa_upp..vbm.1|,|backa..1:0.557|backa..3:0.349|backa..4:0.094|backa_upp..1:-1.000|backa_upp..2:-1.000|,|,|,-0.0,8,5,ET,-1,Bloggmix 2017,1
+1423,15,upp,PL,|upp|backa upp:08|,|upp..ab.1|backa_upp..vbm.1:08|,|upp..1:-1.000|backa_upp..1:08:-1.000|backa_upp..2:08:-1.000|,|,|,,9,8,PL,-1,Bloggmix 2017,1
+1423,15,av,PP,|av|,|av..pp.1|,|av..1:-1.000|,|,|,,10,8,AG,-1,Bloggmix 2017,1
+1423,15,bevis,NN.NEU.PLU.IND.NOM,|bevis|,|bevis..nn.1|,|bevis..1:0.957|bevis..2:0.043|,|,|,1.0,11,12,CJ,-1,Bloggmix 2017,1
+1423,15,eller,KN,|eller|,|eller..kn.1|,|eller..1:-1.000|,|,|,,12,10,PA,-1,Bloggmix 2017,1
+1423,15,relevant,JJ.POS.UTR.SIN.IND.NOM,|relevant|,|relevant..av.1|,|relevant..1:-1.000|,|,|,1.0,13,14,AT,-1,Bloggmix 2017,1
+1423,15,källor,NN.UTR.PLU.IND.NOM,|källa|,|källa..nn.1|,|källa..1:0.935|källa..2:0.065|,|,|,0.0,14,12,CJ,-1,Bloggmix 2017,1
+1423,15,.,MAD,|,|,|,|,|,,15,2,IP,-1,Bloggmix 2017,1
+717,64,Enligt,PP,|enligt|,|enligt..pp.1|,|enligt..1:-1.000|,|,|,,1,0,ROOT,-1,Bloggmix 2017,0
+717,64,syriska,JJ.POS.UTR+NEU.PLU.IND+DEF.NOM,|syrisk|,|syrisk..av.1|,|syrisk..1:-1.000|,|,|,,2,4,AT,-1,Bloggmix 2017,0
+717,64,statliga,JJ.POS.UTR+NEU.PLU.IND+DEF.NOM,|statlig|,|statlig..av.1|,|statlig..1:-1.000|,|,|,0.0,3,4,AT,-1,Bloggmix 2017,0
+717,64,medier,NN.NEU.PLU.IND.NOM,|medium|,|medium..nn.1|medium..nn.2|,|medium..4:0.862|medium..1:0.095|medium..3:0.031|medium..5:0.010|medium..2:0.003|,|,|,0.0,4,1,PA,-1,Bloggmix 2017,0
+717,64,",",MID,|,|,|,|,|,,5,1,IK,-1,Bloggmix 2017,0
+717,64,sade,VB.PRT.AKT,|säga|,|säga..vb.1|,|säga..1:0.858|säga..2:0.141|säga..3:0.001|,|,|,0.0,6,1,+F,-1,Bloggmix 2017,0
+717,64,Syriens,PM.GEN,|Syrien|,|Syrien..pm.1|,|Syrien..1:-1.000|,|,|,,7,8,DT,-1,Bloggmix 2017,0
+717,64,FN-ambassadör,NN.UTR.SIN.IND.NOM,|FN-ambassadör|,|,|,|FN..pma.1+ambassadör..nn.1:1.274e-26|,|FN-+ambassadör|,,8,9,DT,-1,Bloggmix 2017,0
+717,64,Jaafari,PM.NOM,|,|,|,|,|,,9,6,SS,-1,Bloggmix 2017,0
+717,64,att,SN,|att|,|att..sn.1|,|att..1:-1.000|,|,|,,10,6,OO,-1,Bloggmix 2017,0
+717,64,frågan,NN.UTR.SIN.DEF.NOM,|fråga|,|fråga..nn.1|,|fråga..2:0.785|fråga..3:0.215|,|,|,0.0,11,14,SS,-1,Bloggmix 2017,0
+717,64,om,PP,|om|,|om..pp.1|,|om..1:-1.000|om..5:-1.000|,|,|,,12,11,ET,-1,Bloggmix 2017,0
+717,64,federalism,NN.UTR.SIN.IND.NOM,|federalism|,|federalism..nn.1|,|federalism..1:-1.000|,|federal..av.1+ism..nn.1:1.222e-14|,|federal+ism|,,13,12,PA,-1,Bloggmix 2017,0
+717,64,skulle,VB.PRT.AKT,|skola|,|skola..vb.2|,|skola..4:-1.000|,|skulle..nn.1+le..vb.1:5.815e-12|,|skull+le|,0.0,14,10,UA,-1,Bloggmix 2017,0
+717,64,avgöras,VB.INF.SFO,|avgöra|,|avgöra..vb.1|,|avgöra..1:-1.000|,|av..ab.1+göra..vb.1:1.026e-09|av..av.1+göra..vb.1:3.484e-20|,|av+göras|,0.0,15,14,VG,-1,Bloggmix 2017,0
+717,64,"""",PAD,|,|,|,|,|,,16,17,IR,-1,Bloggmix 2017,0
+717,64,av,PP,|av|,|av..pp.1|,|av..1:-1.000|,|,|,,17,15,AG,-1,Bloggmix 2017,0
+717,64,alla,DT.UTR+NEU.PLU.IND+DEF,|all|,|all..pn.1|,|all..1:-1.000|,|,|,,18,19,DT,-1,Bloggmix 2017,0
+717,64,syrier,NN.UTR.PLU.IND.NOM,|syrier|,|syrier..nn.1|,|syrier..1:-1.000|,|,|,,19,20,CJ,-1,Bloggmix 2017,0
+717,64,och,KN,|och|,|och..kn.1|,|och..1:-1.000|,|,|,,20,17,PA,-1,Bloggmix 2017,0
+717,64,inte,AB,|inte|,|inte..ab.1|,|inte..1:-1.000|,|,|,,21,22,DT,-1,Bloggmix 2017,0
+717,64,unilateralt,JJ.POS.NEU.SIN.IND.NOM,|unilateral|,|unilateral..av.1|,|unilateral..1:-1.000|,|,|,,22,28,MS,-1,Bloggmix 2017,0
+717,64,av,PP,|av|,|av..pp.1|,|av..1:-1.000|,|,|,,23,22,ET,-1,Bloggmix 2017,0
+717,64,en,DT.UTR.SIN.IND,|en|,|en..al.1|,|den..1:-1.000|en..2:-1.000|,|,|,,24,25,DT,-1,Bloggmix 2017,0
+717,64,grupp,NN.UTR.SIN.IND.NOM,|grupp|,|grupp..nn.1|,|grupp..1:-1.000|,|,|,0.0,25,23,PA,-1,Bloggmix 2017,0
+717,64,"""",PAD,|,|,|,|,|,,26,25,JC,-1,Bloggmix 2017,0
+717,64,",",MID,|,|,|,|,|,,27,22,IK,-1,Bloggmix 2017,0
+717,64,och,KN,|och|,|och..kn.1|,|och..1:-1.000|,|,|,,28,20,CJ,-1,Bloggmix 2017,0
+717,64,tillade,VB.PRT.AKT,|tillägga|,|tillägga..vb.1|,|tillägga..1:-1.000|,|till..ab.1+lägga..vb.1:8.331e-10|,|till+lade|,0.0,29,28,+F,-1,Bloggmix 2017,0
+717,64,att,SN,|att|,|att..sn.1|,|att..1:-1.000|,|,|,,30,29,OO,-1,Bloggmix 2017,0
+717,64,alla,DT.UTR+NEU.PLU.IND+DEF,|all|,|all..pn.1|,|all..1:-1.000|,|,|,,31,32,DT,-1,Bloggmix 2017,0
+717,64,idéer,NN.UTR.PLU.IND.NOM,|idé|,|idé..nn.1|,|idé..1:-1.000|,|,|,0.0,32,41,SS,-1,Bloggmix 2017,0
+717,64,"""",PAD,|,|,|,|,|,,33,32,IR,-1,Bloggmix 2017,0
+717,64,även,AB,|även|,|även..ab.1|,|även..1:-1.000|,|,|,,34,41,+A,-1,Bloggmix 2017,0
+717,64,en,DT.UTR.SIN.IND,|en|,|en..al.1|,|den..1:-1.000|en..2:-1.000|,|,|,,35,37,DT,-1,Bloggmix 2017,0
+717,64,lika,AB,|lika|,|lika..ab.1|,|lika..1:-1.000|,|,|,,36,37,AA,-1,Bloggmix 2017,0
+717,64,galen,JJ.POS.UTR.SIN.IND.NOM,|galen|,|galen..av.1|,|galen..1:0.727|galen..2:0.273|,|,|,-1.0,37,34,SS,-1,Bloggmix 2017,0
+717,64,som,KN,|,|,|,|,|,,38,37,ET,-1,Bloggmix 2017,0
+717,64,federalism,NN.UTR.SIN.IND.NOM,|federalism|,|federalism..nn.1|,|federalism..1:-1.000|,|federal..av.1+ism..nn.1:1.222e-14|,|federal+ism|,,39,38,UA,-1,Bloggmix 2017,0
+717,64,",",MID,|,|,|,|,|,,40,34,IK,-1,Bloggmix 2017,0
+717,64,måste,VB.PRS.AKT,|måste|,|måste..vb.1|,|måste..1:-1.000|,|,|,0.0,41,30,UA,-1,Bloggmix 2017,0
+717,64,sättas,VB.INF.SFO,|sätta|,|sätta..vb.1|,|sätta..5:0.476|sätta..1:0.310|sätta..4:0.122|sätta..3:0.049|sätta..2:0.038|sätta..6:0.005|,|sätt..nn.1+ta..vb.1:3.578e-10|sätt..nn.1+tas..vb.1:3.578e-10|sätta..vb.1+ta..vb.1:2.667e-13|sätta..vb.1+tas..vb.1:2.667e-13|,|sätt+tas|,0.0,42,41,VG,-1,Bloggmix 2017,0
+717,64,till,PP,|till|,|till..pp.1|,|till..1:-1.000|,|,|,,43,42,OA,-1,Bloggmix 2017,0
+717,64,en,DT.UTR.SIN.IND,|en|,|en..al.1|,|den..1:-1.000|en..2:-1.000|,|,|,,44,46,DT,-1,Bloggmix 2017,0
+717,64,demokratisk,JJ.POS.UTR.SIN.IND.NOM,|demokratisk|,|demokratisk..av.1|,|demokratisk..1:-1.000|,|,|,1.0,45,46,AT,-1,Bloggmix 2017,0
+717,64,omröstning,NN.UTR.SIN.IND.NOM,|omröstning|,|omröstning..nn.1|,|omröstning..1:-1.000|,|om..ab.1+röstning..nn.1:1.597e-11|om..nn.1+röstning..nn.1:4.372e-20|,|om+röstning|,0.0,46,43,PA,-1,Bloggmix 2017,0
+717,64,.,MAD,|,|,|,|,|,,47,0,IP,-1,Bloggmix 2017,0
+717,64,"""",PAD,|,|,|,|,|,,48,15,JR,-1,Bloggmix 2017,0
+717,64,"""",PAD,|,|,|,|,|,,1,3,IR,-1,Bloggmix 2017,0
+717,64,Ryssarna,NN.UTR.PLU.DEF.NOM,|ryss|,|ryss..nn.1|,|ryss..1:-1.000|,|,|,0.0,2,3,SS,-1,Bloggmix 2017,0
+717,64,försöker,VB.PRS.AKT,|försöka|,|försöka..vb.1|,|försöka..1:-1.000|,|föra..vb.1+söka..vb.1:3.100e-13|för..nn.1+söka..vb.1:3.853e-16|,|för+söker|,0.0,3,0,ROOT,-1,Bloggmix 2017,0
+717,64,hitta,VB.INF.AKT,|hitta|,|hitta..vb.1|,|hitta..1:-1.000|,|hit..ab.1+ta..vb.1:8.468e-09|hit..nn.1+ta..vb.1:5.819e-12|,|hit+ta|,0.0,4,3,OO,-1,Bloggmix 2017,0
+717,64,en,DT.UTR.SIN.IND,|en|,|en..al.1|,|den..1:-1.000|en..2:-1.000|,|,|,,5,6,DT,-1,Bloggmix 2017,0
+717,64,överenskommelse,NN.UTR.SIN.IND.NOM,|överenskommelse|,|överenskommelse..nn.1|,|överenskommelse..1:-1.000|,|,|,0.0,6,4,OO,-1,Bloggmix 2017,0
+717,64,som,HP.-.-.-,|,|,|,|,|,,7,8,SS,-1,Bloggmix 2017,0
+717,64,kan,VB.PRS.AKT,|kunna|,|kunna..vb.1|,|kunna..3:0.353|kunna..1:0.349|kunna..4:0.245|kunna..2:0.052|,|,|,0.0,8,6,ET,-1,Bloggmix 2017,0
+717,64,antas,VB.INF.SFO,|anta|,|anta..vb.1|,|anta..1:0.922|anta..2:0.078|,|an..ab.1+tas..vb.1:1.497e-10|an..ab.1+ta..vb.1:1.497e-10|,|an+tas|,0.0,9,8,VG,-1,Bloggmix 2017,0
+717,64,både,KN,|både och|,|både_och..knm.1|,|både_och..1:-1.000|,|,|,,10,11,VA,-1,Bloggmix 2017,0
+717,64,av,PP,|av|,|av..pp.1|,|av..1:-1.000|,|,|,,11,14,DT,-1,Bloggmix 2017,0
+717,64,president,NN.UTR.SIN.IND.NOM,|president|,|president..nn.1|,|president..1:-1.000|,|,|,0.0,12,14,DT,-1,Bloggmix 2017,0
+717,64,Assad,PC.PRF.UTR.SIN.IND.NOM,|,|,|,|,|,,13,14,CJ,-1,Bloggmix 2017,0
+717,64,och,KN,|och|både och:10|,|och..kn.1|både_och..knm.1:10|,|och..1:-1.000|både_och..1:10:-1.000|,|,|,,14,9,SP,-1,Bloggmix 2017,0
+717,64,PYD,PC.PRF.UTR.SIN.IND.NOM,|,|,|,|,|,,15,14,CJ,-1,Bloggmix 2017,0
+717,64,.,MAD,|,|,|,|,|,,16,3,IP,-1,Bloggmix 2017,0
+784,62,Önskade,VB.PRT.AKT,|önska|,|önska..vb.1|,|önska..1:-1.000|,|,|,0.0,1,43,MS,-1,Bloggmix 2017,0
+784,62,mig,PN.UTR.SIN.DEF.OBJ,|jag|,|jag..pn.1|,|jag..1:-1.000|,|,|,,2,1,IO,-1,Bloggmix 2017,0
+784,62,nya,JJ.POS.UTR+NEU.PLU.IND+DEF.NOM,|ny|,|ny..av.1|,|ny..1:-1.000|,|,|,0.0,3,4,AT,-1,Bloggmix 2017,0
+784,62,Hardanger-bestick,NN.NEU.PLU.IND.NOM,|,|,|,|,|,,4,7,CJ,-1,Bloggmix 2017,0
+784,62,i,PP,|i|,|i..pp.1|,|i..2:-1.000|,|,|,,5,4,ET,-1,Bloggmix 2017,0
+784,62,present,NN.UTR.SIN.IND.NOM,|present|,|present..nn.1|,|present..1:-1.000|,|,|,,6,5,PA,-1,Bloggmix 2017,0
+784,62,och,KN,|och|,|och..kn.1|,|och..1:-1.000|,|,|,,7,1,OO,-1,Bloggmix 2017,0
+784,62,dom,PN.UTR+NEU.PLU.DEF.SUB+OBJ,|de|,|de..pn.1|,|de..1:-1.000|,|,|,,8,7,CJ,-1,Bloggmix 2017,0
+784,62,jag,PN.UTR.SIN.DEF.SUB,|jag|,|jag..pn.1|,|jag..1:-1.000|,|,|,,9,7,OO,-1,Bloggmix 2017,0
+784,62,jag,PN.UTR.SIN.DEF.SUB,|jag|,|jag..pn.1|,|jag..1:-1.000|,|,|,,10,9,ET,-1,Bloggmix 2017,0
+784,62,:),IN,|,|,|,|,|,,11,7,MA,-1,Bloggmix 2017,0
+784,62,Då,AB,|då|,|då..ab.1|då..ab.2|,|då..1:0.844|då..3:0.156|,|,|,,12,13,TA,-1,Bloggmix 2017,0
+784,62,var,VB.PRT.AKT,|vara|,|vara..vb.1|,|vara..1:-1.000|,|,|,0.0,13,11,IF,-1,Bloggmix 2017,0
+784,62,det,PN.NEU.SIN.DEF.SUB+OBJ,|den|,|den..pn.1|,|den..2:-1.000|,|,|,,14,13,SS,-1,Bloggmix 2017,0
+784,62,dags,NN.UTR.-.-.-,|dag|dags|,|dag..nn.1|dags..nn.1|,|dags..1:0.808|dag..1:0.163|dag..2:0.029|,|,|,0.0,15,13,TA,-1,Bloggmix 2017,0
+784,62,att,IE,|att|,|att..sn.1|,|att..1:-1.000|,|,|,,16,15,ET,-1,Bloggmix 2017,0
+784,62,göra,VB.INF.AKT,|göra|göra sig|göra av|göra sig av|,|göra..vb.1|göra_sig..vbm.1|göra_av..vbm.1|göra_sig_av..vbm.1|,|göra..1:0.799|göra..3:0.133|göra..2:0.068|göra_sig..1:-1.000|göra_sig..2:-1.000|göra_sig..3:-1.000|göra_av..1:-1.000|göra_av..2:-1.000|göra_sig_av..1:-1.000|,|,|,0.0,17,23,CJ,-1,Bloggmix 2017,0
+784,62,sig,PN.UTR+NEU.SIN+PLU.DEF.OBJ,|sig|göra sig:17|göra sig av:17|,|sig..pn.1|göra_sig..vbm.1:17|göra_sig_av..vbm.1:17|,|sig..1:-1.000|göra_sig..1:17:-1.000|göra_sig..2:17:-1.000|göra_sig..3:17:-1.000|göra_sig_av..1:17:-1.000|,|,|,,18,17,OO,-1,Bloggmix 2017,0
+784,62,av,PL,|av|göra av:17|göra sig av:17|,|av..ab.1|göra_av..vbm.1:17|göra_sig_av..vbm.1:17|,|av..3:-1.000|göra_av..1:17:-1.000|göra_av..2:17:-1.000|göra_sig_av..1:17:-1.000|,|,|,,19,17,PL,-1,Bloggmix 2017,0
+784,62,med,PP,|med|,|med..pp.1|,|med..1:-1.000|med..2:-1.000|,|,|,,20,17,OA,-1,Bloggmix 2017,0
+784,62,dom,DT.UTR+NEU.PLU.DEF,|en|,|en..al.1|,|den..1:-1.000|en..2:-1.000|,|,|,,21,22,DT,-1,Bloggmix 2017,0
+784,62,gamla,JJ.POS.UTR+NEU.PLU.IND+DEF.NOM,|gammal|,|gammal..av.1|,|gammal..1:-1.000|,|,|,0.0,22,17,OO,-1,Bloggmix 2017,0
+784,62,o,KN,|o|,|o..kna.1|,|och..1:-1.000|,|,|,,23,31,TA,-1,Bloggmix 2017,0
+784,62,köpa,VB.INF.AKT,|köpa|,|köpa..vb.1|köpa..vb.2|,|köpa..1:0.971|köpa..2:0.029|,|,|,0.0,24,23,CJ,-1,Bloggmix 2017,0
+784,62,till,PP,|till|,|till..pp.1|,|till..1:-1.000|,|,|,,25,23,PL,-1,Bloggmix 2017,0
+784,62,förrättsbestick,NN.NEU.PLU.IND.NOM,|förrättsbestick|,|,|,|förrätt..nn.1+bestick..nn.1:1.874e-15|förr..ab.1+rätt..nn.2+bestick..nn.1:2.499e-19|förr..ab.1+rätt..nn.3+bestick..nn.1:2.499e-19|förr..ab.1+rätt..nn.1+bestick..nn.1:2.499e-19|föra..vb.1+rätt..nn.1+bestick..nn.1:1.100e-20|föra..vb.1+rätt..nn.3+bestick..nn.1:1.100e-20|föra..vb.1+rätt..nn.2+bestick..nn.1:1.100e-20|förr..ab.1+ätt..nn.1+bestick..nn.1:6.827e-21|för..nn.1+rätt..nn.1+bestick..nn.1:1.016e-23|för..nn.1+rätt..nn.2+bestick..nn.1:1.016e-23|för..nn.1+rätt..nn.3+bestick..nn.1:1.016e-23|,|förrätts+bestick|förr+rätts+bestick|för+rätts+bestick|förr+ätts+bestick|,,26,25,HD,-1,Bloggmix 2017,0
+784,62,för,PP,|för|,|för..pp.1|,|för..1:-1.000|för..5:-1.000|för..6:-1.000|för..7:-1.000|för..9:-1.000|,|,|,,27,23,OA,-1,Bloggmix 2017,0
+784,62,pengarna,NN.UTR.PLU.DEF.NOM,|peng|pengar|,|peng..nn.1|pengar..nn.1|,|peng..1:0.545|pengar..1:0.455|,|,|,0.0,28,27,PA,-1,Bloggmix 2017,0
+784,62,istället,AB,|istället|,|istället..ab.1|,|i_stället..1:-1.000|,|,|,,29,31,MA,-1,Bloggmix 2017,0
+784,62,:),IN,|,|,|,|,|,,30,29,HD,-1,Bloggmix 2017,0
+784,62,vill,VB.PRS.AKT,|vilja|,|vilja..vb.1|,|vilja..1:-1.000|,|,|,0.0,31,16,IF,-1,Bloggmix 2017,0
+784,62,gärna,AB.POS,|gärna|,|gärna..ab.1|,|gärna..1:-1.000|,|,|,,32,31,MA,-1,Bloggmix 2017,0
+784,62,ha,VB.INF.AKT,|ha|,|ha..vb.1|,|ha..1:0.839|ha..3:0.161|,|,|,0.0,33,31,VG,-1,Bloggmix 2017,0
+784,62,matbestick,NN.NEU.PLU.IND.NOM,|matbestick|,|matbestick..nn.1|,|matbestick..1:-1.000|,|mat..nn.1+bestick..nn.1:1.380e-10|,|mat+bestick|,,34,35,CJ,-1,Bloggmix 2017,0
+784,62,och,KN,|och|,|och..kn.1|,|och..1:-1.000|,|,|,,35,33,OO,-1,Bloggmix 2017,0
+784,62,förrättsbestick,NN.NEU.PLU.IND.NOM,|förrättsbestick|,|,|,|förrätt..nn.1+bestick..nn.1:1.874e-15|förr..ab.1+rätt..nn.2+bestick..nn.1:2.499e-19|förr..ab.1+rätt..nn.3+bestick..nn.1:2.499e-19|förr..ab.1+rätt..nn.1+bestick..nn.1:2.499e-19|föra..vb.1+rätt..nn.1+bestick..nn.1:1.100e-20|föra..vb.1+rätt..nn.3+bestick..nn.1:1.100e-20|föra..vb.1+rätt..nn.2+bestick..nn.1:1.100e-20|förr..ab.1+ätt..nn.1+bestick..nn.1:6.827e-21|för..nn.1+rätt..nn.1+bestick..nn.1:1.016e-23|för..nn.1+rätt..nn.2+bestick..nn.1:1.016e-23|för..nn.1+rätt..nn.3+bestick..nn.1:1.016e-23|,|förrätts+bestick|förr+rätts+bestick|för+rätts+bestick|förr+ätts+bestick|,,36,35,CJ,-1,Bloggmix 2017,0
+784,62,i,PP,|i|,|i..pp.1|,|i..2:-1.000|,|,|,,37,33,RA,-1,Bloggmix 2017,0
+784,62,samma,DT.UTR+NEU.SIN+PLU.IND,|samma|,|samma..pn.1|,|samma..1:-1.000|,|,|,,38,39,DT,-1,Bloggmix 2017,0
+784,62,serie,NN.UTR.SIN.IND.NOM,|serie|,|serie..nn.1|,|serie..1:0.589|serie..2:0.411|,|,|,0.0,39,37,PA,-1,Bloggmix 2017,0
+784,62,när,HA,|när|,|när..ab.1|,|när..1:0.756|nära..1:0.244|,|,|,,40,42,TA,-1,Bloggmix 2017,0
+784,62,jag,PN.UTR.SIN.DEF.SUB,|jag|,|jag..pn.1|,|jag..1:-1.000|,|,|,,41,42,SS,-1,Bloggmix 2017,0
+784,62,dukar,VB.PRS.AKT,|duka|,|duka..vb.1|,|duka..1:1.000|duka..2:0.000|,|,|,,42,33,VG,-1,Bloggmix 2017,0
+784,62,och,KN,|och|,|och..kn.1|,|och..1:-1.000|,|,|,,43,0,ROOT,-1,Bloggmix 2017,0
+784,62,det,PN.NEU.SIN.DEF.SUB+OBJ,|den|,|den..pn.1|,|den..2:-1.000|,|,|,,44,45,SS,-1,Bloggmix 2017,0
+784,62,gick,VB.PRT.AKT,|gå|,|gå..vb.1|,|gå..7:0.415|gå..2:0.128|gå..6:0.117|gå..1:0.077|gå..11:0.057|gå..8:0.048|gå..4:0.047|gå..3:0.044|gå..10:0.028|gå..5:0.024|gå..9:0.015|,|,|,-1.0,45,52,SS,-1,Bloggmix 2017,0
+784,62,inte,AB,|inte|,|inte..ab.1|,|inte..1:-1.000|,|,|,,46,45,,-1,Bloggmix 2017,0
+784,62,med,PP,|med|,|med..pp.1|,|med..1:-1.000|med..2:-1.000|,|,|,,47,45,OA,-1,Bloggmix 2017,0
+784,62,dom,DT.UTR+NEU.PLU.DEF,|en|,|en..al.1|,|den..1:-1.000|en..2:-1.000|,|,|,,48,49,DT,-1,Bloggmix 2017,0
+784,62,gamla,JJ.POS.UTR+NEU.PLU.IND+DEF.NOM,|gammal|,|gammal..av.1|,|gammal..1:-1.000|,|,|,0.0,49,47,PA,-1,Bloggmix 2017,0
+784,62,för,PP,|för|,|för..pp.1|,|för..1:-1.000|för..5:-1.000|för..6:-1.000|för..7:-1.000|för..9:-1.000|,|,|,,50,49,ET,-1,Bloggmix 2017,0
+784,62,dom,PN.UTR+NEU.PLU.DEF.SUB+OBJ,|de|,|de..pn.1|,|de..1:-1.000|,|,|,,51,50,PA,-1,Bloggmix 2017,0
+784,62,hade,VB.PRT.AKT,|ha|,|ha..vb.1|,|ha..1:0.953|ha..3:0.047|,|,|,0.0,52,54,MS,-1,Bloggmix 2017,0
+784,62,utgått,VB.SUP.AKT,|utgå|,|utgå..vb.1|,|utgå..1:0.446|utgå..2:0.263|utgå..3:0.156|utgå..4:0.135|,|ut..ab.1+gå..vb.1:3.776e-08|,|ut+gått|,0.0,53,52,VG,-1,Bloggmix 2017,0
+784,62,och,KN,|och|,|och..kn.1|,|och..1:-1.000|,|,|,,54,43,MS,-1,Bloggmix 2017,0
+784,62,fanns,VB.PRT.SFO,|finna|finnas|,|finna..vb.1|finnas..vb.1|,|finna..1:0.420|finnas..1:0.396|finna..2:0.184|,|,|,-0.0,55,54,+F,-1,Bloggmix 2017,0
+784,62,inte,AB,|inte|,|inte..ab.1|,|inte..1:-1.000|,|,|,,56,55,,-1,Bloggmix 2017,0
+784,62,att,IE,|att|,|att..sn.1|,|att..1:-1.000|,|,|,,57,55,OA,-1,Bloggmix 2017,0
+784,62,få,VB.INF.AKT,|få|få tag|,|få..vb.1|få_tag..vbm.1|,|få..1:0.858|få..3:0.142|få_tag..1:-1.000|,|,|,1.0,58,57,IF,-1,Bloggmix 2017,0
+784,62,tag,NN.NEU.SIN.IND.NOM,|tag|få tag:58|,|tag..nn.1|tag..nn.2|få_tag..vbm.1:58|,|tag..1:0.953|tag..2:0.047|få_tag..1:58:-1.000|,|,|,0.0,59,58,OO,-1,Bloggmix 2017,0
+784,62,på,PP,|på|,|på..pp.1|,|på..1:-1.000|,|,|,,60,58,TA,-1,Bloggmix 2017,0
+784,62,nånstans,AB,|nånstans|,|nånstans..ab.1|,|någonstans..1:-1.000|,|,|,,61,60,HD,-1,Bloggmix 2017,0
+784,62,!,MAD,|,|,|,|,|,,62,43,IU,-1,Bloggmix 2017,0
+1338,24,Jag,PN.UTR.SIN.DEF.SUB,|jag|,|jag..pn.1|,|jag..1:-1.000|,|,|,,1,2,SS,-1,Bloggmix 2017,1
+1338,24,har,VB.PRS.AKT,|ha|,|ha..vb.1|,|ha..1:0.671|ha..3:0.329|,|,|,0.0,2,8,MS,-1,Bloggmix 2017,1
+1338,24,haft,VB.SUP.AKT,|ha|,|ha..vb.1|,|ha..1:0.703|ha..3:0.297|,|,|,0.0,3,2,VG,-1,Bloggmix 2017,1
+1338,24,ett,DT.NEU.SIN.IND,|en|,|en..al.1|,|den..1:-1.000|en..2:-1.000|,|,|,,4,7,DT,-1,Bloggmix 2017,1
+1338,24,jävligt,AB.POS,|jävlig|jävligt|,|jävlig..av.1|jävligt..ab.1|,|jävligt..1:0.754|jävlig..1:0.246|,|,|,,5,6,AA,-1,Bloggmix 2017,1
+1338,24,tufft,JJ.POS.NEU.SIN.IND.NOM,|tuff|,|tuff..av.1|,|tuff..1:0.959|tuff..3:0.041|,|,|,1.0,6,7,AT,-1,Bloggmix 2017,1
+1338,24,år,NN.NEU.SIN.IND.NOM,|år|,|år..nn.1|,|år..1:-1.000|,|,|,0.0,7,3,TA,-1,Bloggmix 2017,1
+1338,24,och,KN,|och|,|och..kn.1|,|och..1:-1.000|,|,|,,8,0,ROOT,-1,Bloggmix 2017,1
+1338,24,jag,PN.UTR.SIN.DEF.SUB,|jag|,|jag..pn.1|,|jag..1:-1.000|,|,|,,9,10,SS,-1,Bloggmix 2017,1
+1338,24,har,VB.PRS.AKT,|ha|,|ha..vb.1|,|ha..1:0.916|ha..3:0.084|,|,|,0.0,10,17,MS,-1,Bloggmix 2017,1
+1338,24,fått,VB.SUP.AKT,|få|,|få..vb.1|,|få..1:0.939|få..3:0.061|,|,|,1.0,11,10,VG,-1,Bloggmix 2017,1
+1338,24,hjälp,NN.UTR.SIN.IND.NOM,|hjälp|,|hjälp..nn.1|,|hjälp..1:0.856|hjälp..2:0.144|,|,|,1.0,12,11,OO,-1,Bloggmix 2017,1
+1338,24,från,PP,|från|,|från..pp.1|,|från..1:-1.000|,|,|,,13,15,DT,-1,Bloggmix 2017,1
+1338,24,familj,NN.UTR.SIN.IND.NOM,|familj|,|familj..nn.1|,|familj..1:0.999|familj..2:0.001|,|,|,0.0,14,15,CJ,-1,Bloggmix 2017,1
+1338,24,och,KN,|och|,|och..kn.1|,|och..1:-1.000|,|,|,,15,11,ET,-1,Bloggmix 2017,1
+1338,24,vänner,NN.UTR.PLU.IND.NOM,|vän|,|vän..nn.1|,|vän..1:-1.000|,|,|,1.0,16,15,CJ,-1,Bloggmix 2017,1
+1338,24,och,KN,|och|,|och..kn.1|,|och..1:-1.000|,|,|,,17,20,VG,-1,Bloggmix 2017,1
+1338,24,utan,PP,|utan|,|utan..pp.1|,|utan..1:-1.000|,|,|,,18,17,ET,-1,Bloggmix 2017,1
+1338,24,dem,PN.UTR+NEU.PLU.DEF.OBJ,|de|,|de..pn.1|,|de..1:-1.000|,|,|,,19,18,PA,-1,Bloggmix 2017,1
+1338,24,hade,VB.PRT.AKT,|ha|,|ha..vb.1|,|ha..1:0.878|ha..3:0.122|,|,|,-0.0,20,8,MS,-1,Bloggmix 2017,1
+1338,24,det,PN.NEU.SIN.DEF.SUB+OBJ,|den|,|den..pn.1|,|den..2:-1.000|,|,|,,21,20,SS,-1,Bloggmix 2017,1
+1338,24,inte,AB,|inte|,|inte..ab.1|,|inte..1:-1.000|,|,|,,22,20,,-1,Bloggmix 2017,1
+1338,24,gått,VB.SUP.AKT,|gå|,|gå..vb.1|,|gå..7:0.339|gå..2:0.173|gå..6:0.124|gå..1:0.063|gå..4:0.062|gå..11:0.058|gå..8:0.055|gå..9:0.042|gå..3:0.033|gå..5:0.033|gå..10:0.017|,|,|,1.0,23,17,+F,-1,Bloggmix 2017,1
+1338,24,.,MAD,|,|,|,|,|,,24,8,IP,-1,Bloggmix 2017,1
+541,12,Han,PN.UTR.SIN.DEF.SUB,|han|,|han..pn.1|,|han..1:-1.000|,|,|,,1,2,SS,-1,8 Sidor,1
+541,12,har,VB.PRS.AKT,|ha|,|ha..vb.1|,|ha..1:0.845|ha..3:0.155|,|,|,0.0,2,8,MS,-1,8 Sidor,1
+541,12,fått,VB.SUP.AKT,|få|,|få..vb.1|,|få..1:0.930|få..3:0.070|,|,|,1.0,3,2,VG,-1,8 Sidor,1
+541,12,en,DT.UTR.SIN.IND,|en|,|en..al.1|,|den..1:-1.000|en..2:-1.000|,|,|,,4,5,DT,-1,8 Sidor,1
+541,12,infektion,NN.UTR.SIN.IND.NOM,|infektion|,|infektion..nn.1|,|infektion..1:-1.000|,|,|,-1.0,5,3,OO,-1,8 Sidor,1
+541,12,i,PP,|i|,|i..pp.1|,|i..2:-1.000|,|,|,,6,5,ET,-1,8 Sidor,1
+541,12,lungorna,NN.UTR.PLU.DEF.NOM,|lunga|,|lunga..nn.1|,|lunga..1:-1.000|,|,|,,7,6,PA,-1,8 Sidor,1
+541,12,och,KN,|och|,|och..kn.1|,|och..1:-1.000|,|,|,,8,0,ROOT,-1,8 Sidor,1
+541,12,vårdas,VB.PRS.SFO,|vårda|,|vårda..vb.1|,|vårda..1:0.761|vårda..2:0.210|vårda..3:0.029|,|,|,1.0,9,8,+F,-1,8 Sidor,1
+541,12,på,PP,|på|,|på..pp.1|,|på..1:-1.000|,|,|,,10,9,OA,-1,8 Sidor,1
+541,12,sjukhus,NN.NEU.SIN.IND.NOM,|sjukhus|,|sjukhus..nn.1|,|sjukhus..1:-1.000|,|sjuk..av.1+hus..nn.1:3.531e-10|sjuka..nn.1+hus..nn.1:3.438e-18|,|sjuk+hus|,0.0,11,10,PA,-1,8 Sidor,1
+541,12,.,MAD,|,|,|,|,|,,12,8,IP,-1,8 Sidor,1
+1427,15,USA:s,PM.GEN,|,|,|,|,|,,1,2,DT,-1,Bloggmix 2017,0
+1427,15,kongress,NN.UTR.SIN.IND.NOM,|kongress|,|kongress..nn.1|,|kongress..1:0.937|kongress..2:0.063|,|,|,0.0,2,3,SS,-1,Bloggmix 2017,0
+1427,15,har,VB.PRS.AKT,|ha|,|ha..vb.1|,|ha..1:0.987|ha..3:0.013|,|,|,0.0,3,0,ROOT,-1,Bloggmix 2017,0
+1427,15,nyligen,AB,|nyligen|,|nyligen..ab.1|,|nyligen..1:-1.000|,|,|,,4,3,TA,-1,Bloggmix 2017,0
+1427,15,beslutat,VB.SUP.AKT,|besluta|,|besluta..vb.1|,|besluta..1:-1.000|,|,|,0.0,5,3,VG,-1,Bloggmix 2017,0
+1427,15,anslå,VB.INF.AKT,|anslå|,|anslå..vb.1|,|anslå..1:0.996|anslå..2:0.004|slå_an..1:-1.000|,|an..ab.1+slå..vb.1:1.346e-10|,|an+slå|,1.0,6,5,OO,-1,Bloggmix 2017,0
+1427,15,300,RG.NOM,|,|,|,|,|,,7,8,DT,-1,Bloggmix 2017,0
+1427,15,milj,NN.AN,|milj|,|milj..nna.1|,|miljon..1:-1.000|,|,|,0.0,8,9,DT,-1,Bloggmix 2017,0
+1427,15,dollar,NN.UTR.PLU.IND.NOM,|dollar|,|dollar..nn.1|,|dollar..1:-1.000|,|,|,0.0,9,6,OO,-1,Bloggmix 2017,0
+1427,15,för,PP,|för|,|för..pp.1|,|för..1:-1.000|för..5:-1.000|för..6:-1.000|för..7:-1.000|för..9:-1.000|,|,|,,10,9,ET,-1,Bloggmix 2017,0
+1427,15,avancerade,PC.PRF.UTR+NEU.PLU.IND+DEF.NOM,|avancera|avancerad|,|avancera..vb.1|avancerad..av.1|,|avancerad..1:0.528|avancera..1:0.472|,|,|,,11,12,AT,-1,Bloggmix 2017,0
+1427,15,vapen,NN.NEU.PLU.IND.NOM,|vapen|,|vapen..nn.1|,|vapen..1:0.994|vapen..2:0.006|,|,|,0.0,12,10,PA,-1,Bloggmix 2017,0
+1427,15,till,PP,|till|,|till..pp.1|,|till..1:-1.000|,|,|,,13,6,OA,-1,Bloggmix 2017,0
+1427,15,terrorister,NN.UTR.PLU.IND.NOM,|terrorist|,|terrorist..nn.1|,|terrorist..1:-1.000|,|terror..nn.1+ister..nn.1:6.226e-13|,|terror+ister|,-1.0,14,13,PA,-1,Bloggmix 2017,0
+1427,15,.,MAD,|,|,|,|,|,,15,3,IP,-1,Bloggmix 2017,0
+193,19,Linda,PM.NOM,|Linda|,|Linda..pm.1|,|Linda..1:-1.000|,|,|,,1,3,SS,-1,8 Sidor,1
+193,19,Haglund,PM.NOM,|Haglund|,|Haglund..pm.1|,|Haglund..1:-1.000|,|,|,,2,1,HD,-1,8 Sidor,1
+193,19,sade,VB.PRT.AKT,|säga|,|säga..vb.1|,|säga..1:0.977|säga..3:0.013|säga..2:0.010|,|,|,0.0,3,0,ROOT,-1,8 Sidor,1
+193,19,att,SN,|att|,|att..sn.1|,|att..1:-1.000|,|,|,,4,3,OO,-1,8 Sidor,1
+193,19,hon,PN.UTR.SIN.DEF.SUB,|hon|,|hon..pn.1|,|hon..1:-1.000|,|,|,,5,6,SS,-1,8 Sidor,1
+193,19,var,VB.PRT.AKT,|vara|,|vara..vb.1|,|vara..1:-1.000|,|,|,0.0,6,8,MS,-1,8 Sidor,1
+193,19,oskyldig,JJ.POS.UTR.SIN.IND.NOM,|oskyldig|,|oskyldig..av.1|,|oskyldig..1:0.528|oskyldig..2:0.472|,|,|,1.0,7,6,SP,-1,8 Sidor,1
+193,19,och,KN,|och|,|och..kn.1|,|och..1:-1.000|,|,|,,8,4,UA,-1,8 Sidor,1
+193,19,hennes,PS.UTR+NEU.SIN+PLU.DEF,|hon|,|hon..pn.1|,|hon..1:-1.000|,|,|,,9,10,DT,-1,8 Sidor,1
+193,19,tränare,NN.UTR.SIN.IND.NOM,|tränare|,|tränare..nn.1|,|tränare..1:-1.000|,|trä..nn.2+nare..nn.1:9.381e-13|trä..nn.1+nare..nn.1:9.381e-13|trä..vb.1+nare..nn.1:3.017e-22|,|trä+nare|,0.0,10,11,SS,-1,8 Sidor,1
+193,19,erkände,VB.PRT.AKT,|erkänna|,|erkänna..vb.1|,|erkänna..1:0.995|erkänna..2:0.005|,|era..nn.1+känna..vb.1:7.667e-20|,|er+kände|,0.0,11,8,+F,-1,8 Sidor,1
+193,19,att,SN,|att|,|att..sn.1|,|att..1:-1.000|,|,|,,12,11,OO,-1,8 Sidor,1
+193,19,det,PN.NEU.SIN.DEF.SUB+OBJ,|den|,|den..pn.1|,|den..2:-1.000|,|,|,,13,14,SS,-1,8 Sidor,1
+193,19,var,VB.PRT.AKT,|vara|,|vara..vb.1|,|vara..1:-1.000|,|,|,0.0,14,12,UA,-1,8 Sidor,1
+193,19,han,PN.UTR.SIN.DEF.SUB,|han|,|han..pn.1|,|han..1:-1.000|,|,|,,15,14,OO,-1,8 Sidor,1
+193,19,som,HP.-.-.-,|,|,|,|,|,,16,17,SS,-1,8 Sidor,1
+193,19,gjort,VB.SUP.AKT,|göra|,|göra..vb.1|,|göra..1:0.861|göra..2:0.102|göra..3:0.037|,|,|,0.0,17,15,ET,-1,8 Sidor,1
+193,19,fel,PL,|,|,|,|,|,,18,17,PL,-1,8 Sidor,1
+193,19,.,MAD,|,|,|,|,|,,19,3,IP,-1,8 Sidor,1
+1117,11,Det,PN.NEU.SIN.DEF.SUB+OBJ,|den|,|den..pn.1|,|den..2:-1.000|,|,|,,1,2,SS,-1,SVT Nyheter 1018,1
+1117,11,är,VB.PRS.AKT,|vara|,|vara..vb.1|,|vara..1:-1.000|,|,|,0.0,2,0,ROOT,-1,SVT Nyheter 1018,1
+1117,11,så,AB,|så|,|så..ab.1|,|så..1:-1.000|,|,|,,3,4,AA,-1,SVT Nyheter 1018,1
+1117,11,långt,AB.POS,|lång|långt|långt ifrån|,|lång..av.1|långt..ab.1|långt_ifrån..abm.1|,|långt..1:0.629|långtifrån..2:0.244|långtifrån..1:0.072|lång..1:0.055|,|,|,,4,2,SP,-1,SVT Nyheter 1018,1
+1117,11,ifrån,PP,|ifrån|långt ifrån:04|,|ifrån..pp.1|långt_ifrån..abm.1:04|,|ifrån..1:-1.000|långtifrån..1:04:-1.000|långtifrån..2:04:-1.000|,|,|,,5,4,HD,-1,SVT Nyheter 1018,1
+1117,11,sanningen,NN.UTR.SIN.DEF.NOM,|sanning|,|sanning..nn.1|,|sanning..1:-1.000|,|sann..av.1+in..ab.1+gen..nn.1:2.444e-17|sanna..vb.1+in..ab.1+gen..nn.1:2.683e-29|,|sann+in+gen|,1.0,6,2,XX,-1,SVT Nyheter 1018,1
+1117,11,som,HP.-.-.-,|,|,|,|,|,,7,10,OO,-1,SVT Nyheter 1018,1
+1117,11,man,PN.UTR.SIN.IND.SUB,|man|,|man..pn.1|,|man..1:-1.000|,|,|,,8,9,SS,-1,SVT Nyheter 1018,1
+1117,11,kan,VB.PRS.AKT,|kunna|,|kunna..vb.1|,|kunna..1:0.494|kunna..2:0.208|kunna..3:0.183|kunna..4:0.114|,|,|,0.0,9,6,ET,-1,SVT Nyheter 1018,1
+1117,11,komma,VB.INF.AKT,|komma|,|komma..vb.1|,|komma..3:0.599|komma..1:0.401|,|,|,1.0,10,9,VG,-1,SVT Nyheter 1018,1
+1117,11,.,MAD,|,|,|,|,|,,11,2,IP,-1,SVT Nyheter 1018,1
+1377,14,Tanken,NN.UTR.SIN.DEF.NOM,|tank|tanke|,|tank..nn.1|tank..nn.2|tanke..nn.1|,|tank..1:0.625|tanke..1:0.370|tank..2:0.006|,|,|,0.0,1,2,SP,-1,Bloggmix 2017,0
+1377,14,var,VB.PRT.AKT,|vara|,|vara..vb.1|,|vara..1:-1.000|,|,|,0.0,2,0,ROOT,-1,Bloggmix 2017,0
+1377,14,att,SN,|att|,|att..sn.1|,|att..1:-1.000|,|,|,,3,2,SS,-1,Bloggmix 2017,0
+1377,14,jag,PN.UTR.SIN.DEF.SUB,|jag|,|jag..pn.1|,|jag..1:-1.000|,|,|,,4,5,SS,-1,Bloggmix 2017,0
+1377,14,skulle,VB.PRT.AKT,|skola|,|skola..vb.2|,|skola..4:-1.000|,|skulle..nn.1+le..vb.1:5.815e-12|,|skull+le|,0.0,5,3,UA,-1,Bloggmix 2017,0
+1377,14,tränat,VB.SUP.AKT,|träna|,|träna..vb.1|,|träna..1:0.553|träna..2:0.447|,|,|,0.0,6,5,VG,-1,Bloggmix 2017,0
+1377,14,Nicko,PM.NOM,|,|,|,|,|,,7,10,MS,-1,Bloggmix 2017,0
+1377,14,i,PP,|i|i onsdags|,|i..pp.1|i_onsdags..abm.1|,|i..2:-1.000|i_onsdags..1:-1.000|,|,|,,8,7,+A,-1,Bloggmix 2017,0
+1377,14,onsdags,NN.UTR.SIN.IND.GEN,|onsdag|i onsdags:08|,|onsdag..nn.1|i_onsdags..abm.1:08|,|onsdag..1:-1.000|i_onsdags..1:08:-1.000|,|,|,0.0,9,8,HD,-1,Bloggmix 2017,0
+1377,14,men,KN,|men|,|men..kn.1|,|men..1:-1.000|,|,|,,10,6,SS,-1,Bloggmix 2017,0
+1377,14,det,PN.NEU.SIN.DEF.SUB+OBJ,|den|,|den..pn.1|,|den..2:-1.000|,|,|,,11,12,SS,-1,Bloggmix 2017,0
+1377,14,blev,VB.PRT.AKT,|bli|,|bli..vb.1|,|bli..1:0.690|bli..2:0.310|,|,|,0.0,12,10,MS,-1,Bloggmix 2017,0
+1377,14,förhinder,NN.NEU.PLU.IND.NOM,|förhinder|,|förhinder..nn.1|,|förhinder..1:-1.000|,|föra..vb.1+hinder..nn.1:3.260e-12|för..nn.1+hinder..nn.1:6.792e-15|,|för+hinder|,,13,12,SP,-1,Bloggmix 2017,0
+1377,14,.,MAD,|,|,|,|,|,,14,2,IP,-1,Bloggmix 2017,0
+1990,17,Det,PN.NEU.SIN.DEF.SUB+OBJ,|den|,|den..pn.1|,|den..2:-1.000|,|,|,,1,2,SS,-1,Svenskt frasnät (SweFN),0
+1990,17,är,VB.PRS.AKT,|vara|,|vara..vb.1|,|vara..1:-1.000|,|,|,0.0,2,0,ROOT,-1,Svenskt frasnät (SweFN),0
+1990,17,också,AB,|också|,|också..ab.1|,|också..1:-1.000|,|,|,,3,2,+A,-1,Svenskt frasnät (SweFN),0
+1990,17,några,DT.UTR+NEU.PLU.IND,|någon|,|någon..pn.1|,|någon..1:-1.000|,|,|,,4,6,DT,-1,Svenskt frasnät (SweFN),0
+1990,17,skumma,JJ.POS.UTR+NEU.PLU.IND+DEF.NOM,|skum|,|skum..av.1|,|skum..2:0.805|skum..1:0.195|,|,|,,5,6,AT,-1,Svenskt frasnät (SweFN),0
+1990,17,typer,NN.UTR.PLU.IND.NOM,|typ|,|typ..nn.1|,|typ..1:0.651|typ..2:0.291|typ..3:0.058|,|,|,0.0,6,2,SP,-1,Svenskt frasnät (SweFN),0
+1990,17,som,HP.-.-.-,|,|,|,|,|,,7,8,SS,-1,Svenskt frasnät (SweFN),0
+1990,17,tänker,VB.PRS.AKT,|tänka|,|tänka..vb.1|,|tänka..1:-1.000|,|,|,0.0,8,6,ET,-1,Svenskt frasnät (SweFN),0
+1990,17,involvera,VB.INF.AKT,|involvera|,|involvera..vb.1|,|involvera..1:0.528|involvera..2:0.472|,|,|,,9,8,OO,-1,Svenskt frasnät (SweFN),0
+1990,17,Johannes,PM.NOM,|Johannes|,|Johannes..pm.1|,|Johannes..1:-1.000|,|,|,,10,9,SS,-1,Svenskt frasnät (SweFN),0
+1990,17,i,PP,|i|i sin|,|i..pp.1|i_sin..avm.1|,|i..2:-1.000|i_sin..1:-1.000|,|,|,,11,10,ET,-1,Svenskt frasnät (SweFN),0
+1990,17,sin,PS.UTR.SIN.DEF,|sig|i sin:11|,|sig..pn.1|i_sin..avm.1:11|,|sig..1:-1.000|i_sin..1:11:-1.000|,|,|,,12,13,DT,-1,Svenskt frasnät (SweFN),0
+1990,17,plan,NN.UTR.SIN.IND.NOM,|plan|,|plan..nn.1|plan..nn.3|,|plan..1:0.513|plan..5:0.342|plan..7:0.145|,|,|,0.0,13,11,PA,-1,Svenskt frasnät (SweFN),0
+1990,17,utan,PP,|utan|,|utan..pp.1|,|utan..1:-1.000|,|,|,,14,10,ET,-1,Svenskt frasnät (SweFN),0
+1990,17,hans,PS.UTR+NEU.SIN+PLU.DEF,|han|,|han..pn.1|,|han..1:-1.000|,|,|,,15,16,DT,-1,Svenskt frasnät (SweFN),0
+1990,17,vetskap,NN.UTR.SIN.IND.NOM,|vetskap|,|vetskap..nn.1|,|vetskap..1:-1.000|,|veta..vb.1+skap..nn.1:2.127e-11|,|vet+skap|,,16,14,PA,-1,Svenskt frasnät (SweFN),0
+1990,17,.,MAD,|,|,|,|,|,,17,2,IP,-1,Svenskt frasnät (SweFN),0
+701,22,Vår,PS.UTR.SIN.DEF,|vi|,|vi..pn.1|,|vi..1:-1.000|,|,|,,1,2,DT,-1,Bloggmix 2017,0
+701,22,utgångspunkt,NN.UTR.SIN.IND.NOM,|utgångspunkt|,|utgångspunkt..nn.1|,|utgångspunkt..1:-1.000|,|utgång..nn.1+punkt..nn.1:1.811e-12|ut..ab.1+gång..nn.3+punkt..nn.1:4.277e-15|ut..ab.1+gång..nn.1+punkt..nn.1:4.277e-15|ut..ab.1+gång..nn.2+punkt..nn.1:4.277e-15|,|utgångs+punkt|ut+gångs+punkt|,0.0,2,3,SS,-1,Bloggmix 2017,0
+701,22,har,VB.PRS.AKT,|ha|,|ha..vb.1|,|ha..1:0.984|ha..3:0.016|,|,|,0.0,3,0,ROOT,-1,Bloggmix 2017,0
+701,22,naturligtvis,AB,|naturligtvis|,|naturligtvis..ab.1|,|naturligtvis..1:-1.000|,|,|,,4,3,MA,-1,Bloggmix 2017,0
+701,22,varit,VB.SUP.AKT,|vara|,|vara..vb.1|,|vara..1:-1.000|,|,|,0.0,5,3,VG,-1,Bloggmix 2017,0
+701,22,att,SN,|att|,|att..sn.1|,|att..1:-1.000|,|,|,,6,5,OO,-1,Bloggmix 2017,0
+701,22,programserien,NN.UTR.SIN.DEF.NOM,|programserie|,|,|,|program..nn.1+serie..nn.1:9.327e-10|prog..nn.1+ram..nn.1+serie..nn.1:8.367e-18|program..nn.1+se..vb.1+ri..nn.1:1.599e-18|pro..sxc.1+gram..nn.1+serie..nn.1:2.224e-24|prog..nn.1+ramsa..nn.1+ri..nn.1:1.021e-24|prog..nn.1+rama..vb.1+serie..nn.1:2.510e-28|pro..sxc.1+gramse..av.1+ri..nn.1:8.481e-31|,|program+serien|prog+ram+serien|program+ser+ien|program+se+rien|pro+gram+serien|prog+ramse+rien|pro+gramse+rien|,,7,9,SS,-1,Bloggmix 2017,0
+701,22,inte,AB,|inte|,|inte..ab.1|,|inte..1:-1.000|,|,|,,8,9,,-1,Bloggmix 2017,0
+701,22,strider,VB.PRS.AKT,|strida|,|strida..vb.1|,|strida..1:-1.000|,|,|,-0.0,9,6,UA,-1,Bloggmix 2017,0
+701,22,mot,PP,|mot|,|mot..pp.1|,|mot..1:-1.000|mot..2:-1.000|,|,|,,10,9,OA,-1,Bloggmix 2017,0
+701,22,principen,NN.UTR.SIN.DEF.NOM,|princip|,|princip..nn.1|,|princip..1:-1.000|,|,|,0.0,11,10,PA,-1,Bloggmix 2017,0
+701,22,om,PP,|om|,|om..pp.1|,|om..1:-1.000|om..5:-1.000|,|,|,,12,11,ET,-1,Bloggmix 2017,0
+701,22,opartiskhet,NN.UTR.SIN.IND.NOM,|opartiskhet|,|opartiskhet..nn.1|,|opartiskhet..1:-1.000|,|,|,,13,14,CJ,-1,Bloggmix 2017,0
+701,22,",",MID,|,|,|,|,|,,14,17,SS,-1,Bloggmix 2017,0
+701,22,vårt,PS.NEU.SIN.DEF,|vi|,|vi..pn.1|,|vi..1:-1.000|,|,|,,15,16,DT,-1,Bloggmix 2017,0
+701,22,sändningstillstånd,NN.NEU.SIN.IND.NOM,|sändningstillstånd|,|,|,|sändning..nn.1+tillstånd..nn.1:4.542e-13|sändning..nn.1+till..ab.1+stånd..nn.2:5.222e-19|sändning..nn.1+till..ab.1+stånd..nn.1:5.222e-19|,|sändnings+tillstånd|sändning+still+stånd|sändnings+till+stånd|,,16,14,CJ,-1,Bloggmix 2017,0
+701,22,är,VB.PRS.AKT,|vara|,|vara..vb.1|,|vara..1:-1.000|,|,|,0.0,17,12,PA,-1,Bloggmix 2017,0
+701,22,grunden,NN.UTR.SIN.DEF.NOM,|grund|,|grund..nn.1|,|grund..1:-1.000|,|,|,0.0,18,17,SP,-1,Bloggmix 2017,0
+701,22,för,PP,|för|,|för..pp.1|,|för..1:-1.000|för..5:-1.000|för..6:-1.000|för..7:-1.000|för..9:-1.000|,|,|,,19,17,OA,-1,Bloggmix 2017,0
+701,22,vårt,PS.NEU.SIN.DEF,|vi|,|vi..pn.1|,|vi..1:-1.000|,|,|,,20,21,DT,-1,Bloggmix 2017,0
+701,22,programutbud,NN.NEU.SIN.IND.NOM,|programutbud|,|,|,|program..nn.1+utbud..nn.1:3.437e-10|program..nn.1+ut..ab.1+bud..nn.1:5.740e-15|prog..nn.1+ram..nn.1+utbud..nn.1:3.083e-18|pro..sxc.1+gram..nn.1+utbud..nn.1:8.196e-25|prog..nn.1+rama..vb.1+utbud..nn.1:9.250e-29|,|program+utbud|program+ut+bud|prog+ram+utbud|pro+gram+utbud|,,21,19,PA,-1,Bloggmix 2017,0
+701,22,.,MAD,|,|,|,|,|,,22,3,IP,-1,Bloggmix 2017,0
+1039,8,Det,PN.NEU.SIN.DEF.SUB+OBJ,|den|,|den..pn.1|,|den..2:-1.000|,|,|,,1,2,SS,-1,egna meningar,1
+1039,8,var,VB.PRT.AKT,|vara|,|vara..vb.1|,|vara..1:-1.000|,|,|,-0.0,2,0,ROOT,-1,egna meningar,1
+1039,8,inte,AB,|inte|,|inte..ab.1|,|inte..1:-1.000|,|,|,,3,2,,-1,egna meningar,1
+1039,8,en,DT.UTR.SIN.IND,|en|,|en..al.1|,|den..1:-1.000|en..2:-1.000|,|,|,,4,7,DT,-1,egna meningar,1
+1039,8,särskilt,AB,|särskild|särskilt|,|särskild..av.1|särskilt..ab.1|,|särskilt..1:0.825|särskild..1:0.175|,|sär..sxc.1+skild..av.1:2.189e-21|sär..av.1+skild..av.1:1.090e-28|sära..vb.1+skild..av.1:8.387e-30|,|sär+skilt|,,5,6,CA,-1,egna meningar,1
+1039,8,bra,JJ.POS.UTR+NEU.SIN+PLU.IND+DEF.NOM,|bra|,|bra..av.2|,|bra..4:-1.000|,|,|,1.0,6,7,AT,-1,egna meningar,1
+1039,8,sak,NN.UTR.SIN.IND.NOM,|sak|,|sak..nn.1|,|sak..1:0.680|sak..2:0.198|sak..3:0.121|,|,|,-0.0,7,2,SP,-1,egna meningar,1
+1039,8,.,MAD,|,|,|,|,|,,8,2,IP,-1,egna meningar,1
+1087,16,Polisen,NN.UTR.SIN.DEF.NOM,|polis|,|polis..nn.1|polis..nn.2|,|polis..1:0.974|polis..2:0.026|,|pol..nn.1+is..nn.1:3.670e-19|,|pol+isen|,0.0,1,4,SS,-1,SVT Nyheter 1004,0
+1087,16,i,PP,|i|,|i..pp.1|,|i..2:-1.000|,|,|,,2,1,ET,-1,SVT Nyheter 1004,0
+1087,16,Trollhättan,PM.NOM,|Trollhättan|,|Trollhättan..pm.1|,|Trollhättan..1:-1.000|,|,|,,3,2,PA,-1,SVT Nyheter 1004,0
+1087,16,har,VB.PRS.AKT,|ha|,|ha..vb.1|,|ha..1:0.927|ha..3:0.073|,|,|,0.0,4,0,ROOT,-1,SVT Nyheter 1004,0
+1087,16,fått,VB.SUP.AKT,|få|,|få..vb.1|,|få..1:0.907|få..3:0.093|,|,|,1.0,5,4,VG,-1,SVT Nyheter 1004,0
+1087,16,in,PL,|in|,|in..ab.1|,|in..1:-1.000|,|,|,,6,5,PL,-1,SVT Nyheter 1004,0
+1087,16,ytterligare,JJ.KOM.UTR+NEU.SIN+PLU.IND+DEF.NOM,|ytterlig|,|ytterlig..av.1|,|ytterlig..1:-1.000|,|,|,0.0,7,9,DT,-1,SVT Nyheter 1004,0
+1087,16,fem,RG.NOM,|fem|,|fem..nl.1|,|fem..1:-1.000|,|,|,,8,9,DT,-1,SVT Nyheter 1004,0
+1087,16,anmälningar,NN.UTR.PLU.IND.NOM,|anmälan|anmälning|,|anmälan..nn.2|anmälning..nn.1|,|anmälning..1:1.000|anmälan..2:0.000|,|,|,0.0,9,5,OO,-1,SVT Nyheter 1004,0
+1087,16,om,PP,|om|,|om..pp.1|,|om..1:-1.000|om..5:-1.000|,|,|,,10,9,ET,-1,SVT Nyheter 1004,0
+1087,16,misshandel,NN.UTR.SIN.IND.NOM,|misshandel|,|misshandel..nn.1|,|misshandel..1:-1.000|,|miss..nn.2+handel..nn.2:7.874e-11|miss..nn.2+handel..nn.1:7.874e-11|miss..nn.1+handel..nn.1:7.874e-11|miss..nn.1+handel..nn.2:7.874e-11|misse..nn.1+handel..nn.1:7.874e-11|misse..nn.1+handel..nn.2:7.874e-11|missa..vb.1+handel..nn.2:2.248e-20|missa..vb.1+handel..nn.1:2.248e-20|misse..nn.1+hand..nn.1+el..nn.1:3.288e-15|miss..nn.1+hand..nn.1+el..nn.1:3.288e-15|miss..nn.2+hand..nn.1+el..nn.1:3.288e-15|misse..nn.1+hane..nn.1+del..nn.1:1.956e-23|miss..nn.2+hane..nn.1+del..nn.1:1.956e-23|miss..nn.1+hane..nn.1+del..nn.1:1.956e-23|missa..vb.1+hand..nn.1+el..nn.1:2.115e-24|missa..vb.1+hane..nn.1+del..nn.1:1.258e-32|,|miss+handel|miss+hand+el|miss+han+del|,-1.0,11,10,PA,-1,SVT Nyheter 1004,0
+1087,16,i,PP,|i|,|i..pp.1|,|i..2:-1.000|,|,|,,12,11,ET,-1,SVT Nyheter 1004,0
+1087,16,samband,NN.NEU.SIN.IND.NOM,|samband|,|samband..nn.1|,|samband..1:-1.000|,|samba..nn.1+and..nn.2:7.945e-18|samba..nn.1+and..nn.1:7.945e-18|sam..sxc.1+band..nn.1:1.012e-18|,|samb+and|sam+band|,0.0,13,12,HD,-1,SVT Nyheter 1004,0
+1087,16,med,PP,|med|,|med..pp.1|,|med..1:-1.000|med..2:-1.000|,|,|,,14,11,ET,-1,SVT Nyheter 1004,0
+1087,16,krogbråket,NN.NEU.SIN.DEF.NOM,|krogbråk|,|,|,|krog..nn.1+bråk..nn.1:3.700e-12|,|krog+bråket|,,15,14,PA,-1,SVT Nyheter 1004,0
+1087,16,.,MAD,|,|,|,|,|,,16,4,IP,-1,SVT Nyheter 1004,0
+1734,11,En,DT.UTR.SIN.IND,|en|,|en..al.1|,|den..1:-1.000|en..2:-1.000|,|,|,,1,3,DT,-1,Svenskt frasnät (SweFN),0
+1734,11,gammal,JJ.POS.UTR.SIN.IND.NOM,|gammal|,|gammal..av.1|,|gammal..1:-1.000|,|,|,0.0,2,3,AT,-1,Svenskt frasnät (SweFN),0
+1734,11,tradition,NN.UTR.SIN.IND.NOM,|tradition|,|tradition..nn.1|,|tradition..1:0.894|tradition..2:0.106|,|,|,0.0,3,4,SP,-1,Svenskt frasnät (SweFN),0
+1734,11,säger,VB.PRS.AKT,|säga|,|säga..vb.1|,|säga..1:0.719|säga..2:0.236|säga..3:0.044|,|,|,0.0,4,0,ROOT,-1,Svenskt frasnät (SweFN),0
+1734,11,att,SN,|att|,|att..sn.1|,|att..1:-1.000|,|,|,,5,4,SS,-1,Svenskt frasnät (SweFN),0
+1734,11,tiotusentals,AB,|,|,|,|,|,,6,7,AA,-1,Svenskt frasnät (SweFN),0
+1734,11,kristna,JJ.POS.UTR+NEU.PLU.IND+DEF.NOM,|kristen|,|kristen..av.1|,|kristen..1:-1.000|,|,|,0.0,7,8,SS,-1,Svenskt frasnät (SweFN),0
+1734,11,tvångskommenderades,VB.PRT.SFO,|tvångskommendera|,|tvångskommendera..vb.1|,|tvångskommendera..1:-1.000|,|tvång..nn.1+kommendera..vb.1:1.136e-16|,|tvångs+kommenderades|,,8,5,UA,-1,Svenskt frasnät (SweFN),0
+1734,11,till,PP,|till|,|till..pp.1|,|till..1:-1.000|,|,|,,9,8,OA,-1,Svenskt frasnät (SweFN),0
+1734,11,bygget,NN.NEU.SIN.DEF.NOM,|bygge|,|bygge..nn.1|,|bygge..1:-1.000|,|bygga..vb.1+get..nn.1:1.364e-12|,|bygg+get|,0.0,10,9,PA,-1,Svenskt frasnät (SweFN),0
+1734,11,.,MAD,|,|,|,|,|,,11,4,IP,-1,Svenskt frasnät (SweFN),0
+502,16,Ligan,NN.UTR.SIN.DEF.NOM,|liga|,|liga..nn.1|,|liga..1:0.969|liga..2:0.031|,|Li..pm.1+gan..nn.1:3.616e-16|lie..nn.1+gan..nn.1:2.689e-20|,|Li+gan|li+gan|,,1,2,SS,-1,8 Sidor,1
+502,16,hjälpte,VB.PRT.AKT,|hjälpa|,|hjälpa..vb.1|,|hjälpa..1:-1.000|,|,|,1.0,2,0,ROOT,-1,8 Sidor,1
+502,16,människor,NN.UTR.PLU.IND.NOM,|människa|,|människa..nn.1|,|människa..1:-1.000|,|,|,0.0,3,2,OO,-1,8 Sidor,1
+502,16,i,PP,|i|,|i..pp.1|,|i..2:-1.000|,|,|,,4,2,RA,-1,8 Sidor,1
+502,16,hela,JJ.POS.UTR+NEU.SIN.DEF.NOM,|hel|,|hel..av.1|,|hel..1:0.839|hel..2:0.161|,|,|,0.0,5,6,AT,-1,8 Sidor,1
+502,16,Sverige,PM.NOM,|Sverige|,|Sverige..pm.1|,|Sverige..1:-1.000|,|,|,,6,4,PA,-1,8 Sidor,1
+502,16,att,IE,|att|,|att..sn.1|,|att..1:-1.000|,|,|,,7,2,OA,-1,8 Sidor,1
+502,16,fuska,VB.INF.AKT,|fuska|,|fuska..vb.1|,|fuska..3:0.844|fuska..1:0.086|fuska..2:0.070|,|,|,-1.0,8,7,IF,-1,8 Sidor,1
+502,16,för,PP,|för|,|för..pp.1|,|för..1:-1.000|för..5:-1.000|för..6:-1.000|för..7:-1.000|för..9:-1.000|,|,|,,9,8,OA,-1,8 Sidor,1
+502,16,att,IE,|att|,|att..sn.1|,|att..1:-1.000|,|,|,,10,8,ES,-1,8 Sidor,1
+502,16,få,VB.INF.AKT,|få|,|få..vb.1|,|få..1:0.900|få..3:0.100|,|,|,1.0,11,10,IF,-1,8 Sidor,1
+502,16,bra,JJ.POS.UTR+NEU.SIN+PLU.IND+DEF.NOM,|bra|,|bra..av.2|,|bra..4:-1.000|,|,|,1.0,12,13,AT,-1,8 Sidor,1
+502,16,resultat,NN.NEU.SIN.IND.NOM,|resultat|,|resultat..nn.1|,|resultat..1:-1.000|,|,|,0.0,13,11,OO,-1,8 Sidor,1
+502,16,på,PP,|på|,|på..pp.1|,|på..1:-1.000|,|,|,,14,11,RA,-1,8 Sidor,1
+502,16,provet,NN.NEU.SIN.DEF.NOM,|prov|,|prov..nn.2|prov..nn.1|,|prov..2:0.659|prov..3:0.181|prov..1:0.160|,|,|,0.0,15,14,PA,-1,8 Sidor,1
+502,16,.,MAD,|,|,|,|,|,,16,2,IP,-1,8 Sidor,1
+681,24,Jag,PN.UTR.SIN.DEF.SUB,|jag|,|jag..pn.1|,|jag..1:-1.000|,|,|,,1,2,SS,-1,Bloggmix 2017,1
+681,24,har,VB.PRS.AKT,|ha|,|ha..vb.1|,|ha..1:0.684|ha..3:0.316|,|,|,0.0,2,8,MS,-1,Bloggmix 2017,1
+681,24,haft,VB.SUP.AKT,|ha|,|ha..vb.1|,|ha..1:0.718|ha..3:0.282|,|,|,0.0,3,2,VG,-1,Bloggmix 2017,1
+681,24,ett,DT.NEU.SIN.IND,|en|,|en..al.1|,|den..1:-1.000|en..2:-1.000|,|,|,,4,7,DT,-1,Bloggmix 2017,1
+681,24,jävligt,AB.POS,|jävlig|jävligt|,|jävlig..av.1|jävligt..ab.1|,|jävligt..1:0.781|jävlig..1:0.219|,|,|,,5,6,AA,-1,Bloggmix 2017,1
+681,24,tufft,JJ.POS.NEU.SIN.IND.NOM,|tuff|,|tuff..av.1|,|tuff..1:0.942|tuff..3:0.058|,|,|,1.0,6,7,AT,-1,Bloggmix 2017,1
+681,24,år,NN.NEU.SIN.IND.NOM,|år|,|år..nn.1|,|år..1:-1.000|,|,|,0.0,7,3,TA,-1,Bloggmix 2017,1
+681,24,och,KN,|och|,|och..kn.1|,|och..1:-1.000|,|,|,,8,0,ROOT,-1,Bloggmix 2017,1
+681,24,jag,PN.UTR.SIN.DEF.SUB,|jag|,|jag..pn.1|,|jag..1:-1.000|,|,|,,9,10,SS,-1,Bloggmix 2017,1
+681,24,har,VB.PRS.AKT,|ha|,|ha..vb.1|,|ha..1:0.916|ha..3:0.084|,|,|,0.0,10,17,MS,-1,Bloggmix 2017,1
+681,24,fått,VB.SUP.AKT,|få|,|få..vb.1|,|få..1:0.939|få..3:0.061|,|,|,1.0,11,10,VG,-1,Bloggmix 2017,1
+681,24,hjälp,NN.UTR.SIN.IND.NOM,|hjälp|,|hjälp..nn.1|,|hjälp..1:0.856|hjälp..2:0.144|,|,|,1.0,12,11,OO,-1,Bloggmix 2017,1
+681,24,från,PP,|från|,|från..pp.1|,|från..1:-1.000|,|,|,,13,15,DT,-1,Bloggmix 2017,1
+681,24,familj,NN.UTR.SIN.IND.NOM,|familj|,|familj..nn.1|,|familj..1:0.999|familj..2:0.001|,|,|,0.0,14,15,CJ,-1,Bloggmix 2017,1
+681,24,och,KN,|och|,|och..kn.1|,|och..1:-1.000|,|,|,,15,11,ET,-1,Bloggmix 2017,1
+681,24,vänner,NN.UTR.PLU.IND.NOM,|vän|,|vän..nn.1|,|vän..1:-1.000|,|,|,1.0,16,15,CJ,-1,Bloggmix 2017,1
+681,24,och,KN,|och|,|och..kn.1|,|och..1:-1.000|,|,|,,17,20,VG,-1,Bloggmix 2017,1
+681,24,utan,PP,|utan|,|utan..pp.1|,|utan..1:-1.000|,|,|,,18,17,ET,-1,Bloggmix 2017,1
+681,24,dem,PN.UTR+NEU.PLU.DEF.OBJ,|de|,|de..pn.1|,|de..1:-1.000|,|,|,,19,18,PA,-1,Bloggmix 2017,1
+681,24,hade,VB.PRT.AKT,|ha|,|ha..vb.1|,|ha..1:0.878|ha..3:0.122|,|,|,-0.0,20,8,MS,-1,Bloggmix 2017,1
+681,24,det,PN.NEU.SIN.DEF.SUB+OBJ,|den|,|den..pn.1|,|den..2:-1.000|,|,|,,21,20,SS,-1,Bloggmix 2017,1
+681,24,inte,AB,|inte|,|inte..ab.1|,|inte..1:-1.000|,|,|,,22,20,,-1,Bloggmix 2017,1
+681,24,gått,VB.SUP.AKT,|gå|,|gå..vb.1|,|gå..7:0.339|gå..2:0.173|gå..6:0.124|gå..1:0.063|gå..4:0.062|gå..11:0.058|gå..8:0.055|gå..9:0.042|gå..3:0.033|gå..5:0.033|gå..10:0.017|,|,|,1.0,23,17,+F,-1,Bloggmix 2017,1
+681,24,.,MAD,|,|,|,|,|,,24,8,IP,-1,Bloggmix 2017,1
+765,14,När,HA,|när|,|när..ab.1|,|nära..1:0.750|när..1:0.250|,|,|,,1,3,TA,-1,Bloggmix 2017,0
+765,14,Olivia,PM.NOM,|Olivia|,|Olivia..pm.1|,|Olivia..1:-1.000|,|,|,,2,3,SS,-1,Bloggmix 2017,0
+765,14,somnat,VB.SUP.AKT,|somna|,|somna..vb.1|,|somna..1:-1.000|,|,|,,3,5,TA,-1,Bloggmix 2017,0
+765,14,",",MID,|,|,|,|,|,,4,5,IK,-1,Bloggmix 2017,0
+765,14,tände,VB.PRT.AKT,|tända|,|tända..vb.1|,|tända..1:0.996|tända..2:0.004|,|,|,0.0,5,9,MS,-1,Bloggmix 2017,0
+765,14,jag,PN.UTR.SIN.DEF.SUB,|jag|,|jag..pn.1|,|jag..1:-1.000|,|,|,,6,5,SS,-1,Bloggmix 2017,0
+765,14,en,DT.UTR.SIN.IND,|en|,|en..al.1|,|den..1:-1.000|en..2:-1.000|,|,|,,7,8,DT,-1,Bloggmix 2017,0
+765,14,lampa,NN.UTR.SIN.IND.NOM,|lampa|,|lampa..nn.1|,|lampa..1:-1.000|,|,|,,8,5,OO,-1,Bloggmix 2017,0
+765,14,och,KN,|och|,|och..kn.1|,|och..1:-1.000|,|,|,,9,0,ROOT,-1,Bloggmix 2017,0
+765,14,kunde,VB.PRT.AKT,|kunna|,|kunna..vb.1|,|kunna..3:0.410|kunna..2:0.338|kunna..4:0.206|kunna..1:0.047|,|,|,-0.0,10,9,+F,-1,Bloggmix 2017,0
+765,14,sedan,AB,|sedan|,|sedan..ab.1|,|sedan..1:-1.000|,|,|,,11,10,TA,-1,Bloggmix 2017,0
+765,14,inte,AB,|inte|,|inte..ab.1|,|inte..1:-1.000|,|,|,,12,10,,-1,Bloggmix 2017,0
+765,14,somna,VB.INF.AKT,|somna|,|somna..vb.1|,|somna..1:-1.000|,|,|,,13,10,VG,-1,Bloggmix 2017,0
+765,14,.,MAD,|,|,|,|,|,,14,9,IP,-1,Bloggmix 2017,0
+1630,19,Ja,IN,|ja|,|ja..in.1|,|ja..1:-1.000|,|,|,1.0,1,0,ROOT,-1,Flashback: Politik,0
+1630,19,",",MID,|,|,|,|,|,,2,1,IK,-1,Flashback: Politik,0
+1630,19,det,PN.NEU.SIN.DEF.SUB+OBJ,|den|,|den..pn.1|,|den..2:-1.000|,|,|,,3,4,FS,-1,Flashback: Politik,0
+1630,19,är,VB.PRS.AKT,|vara|,|vara..vb.1|,|vara..1:-1.000|,|,|,0.0,4,8,MS,-1,Flashback: Politik,0
+1630,19,verkligen,AB,|verkligen|,|verkligen..ab.1|,|verkligen..1:-1.000|,|,|,,5,6,AA,-1,Flashback: Politik,0
+1630,19,obegripligt,JJ.POS.NEU.SIN.IND.NOM,|obegriplig|,|obegriplig..av.1|,|obegriplig..1:-1.000|,|,|,-1.0,6,4,SP,-1,Flashback: Politik,0
+1630,19,",",MID,|,|,|,|,|,,7,4,IK,-1,Flashback: Politik,0
+1630,19,och,KN,|och|,|och..kn.1|,|och..1:-1.000|,|,|,,8,1,MS,-1,Flashback: Politik,0
+1630,19,vilken,HD.UTR.SIN.IND,|,|,|,|,|,,9,11,DT,-1,Flashback: Politik,0
+1630,19,ofattbar,JJ.POS.UTR.SIN.IND.NOM,|ofattbar|,|ofattbar..av.1|,|ofattbar..1:-1.000|,|,|,0.0,10,11,AT,-1,Flashback: Politik,0
+1630,19,slump,NN.UTR.SIN.IND.NOM,|slump|,|slump..nn.1|slump..nn.2|,|slump..1:0.991|slump..2:0.009|,|,|,,11,8,+F,-1,Flashback: Politik,0
+1630,19,att,SN,|att|,|att..sn.1|,|att..1:-1.000|,|,|,,12,11,ET,-1,Flashback: Politik,0
+1630,19,killen,NN.UTR.SIN.DEF.NOM,|kille|,|kille..nn.1|kille..nn.2|,|kille..3:0.465|kille..1:0.459|kille..2:0.076|,|kille..nn.1+l..nn.1:2.712e-20|kil..nn.1+l..nn.1:1.907e-20|killa..vb.1+l..nn.1:1.087e-28|,|kill+len|kil+len|,0.0,13,15,SS,-1,Flashback: Politik,0
+1630,19,dessutom,AB,|dessutom|,|dessutom..ab.1|,|dessutom..1:-1.000|,|,|,,14,15,+A,-1,Flashback: Politik,0
+1630,19,råkar,VB.PRS.AKT,|råka|,|råka..vb.1|,|råka..2:0.531|råka..1:0.469|,|,|,0.0,15,12,UA,-1,Flashback: Politik,0
+1630,19,vara,VB.INF.AKT,|vara|,|vara..vb.1|vara..vb.2|,|vara..1:0.667|vara..2:0.228|vara..3:0.106|,|,|,0.0,16,15,VS,-1,Flashback: Politik,0
+1630,19,socialdemokratiskt,JJ.POS.NEU.SIN.IND.NOM,|socialdemokratisk|,|socialdemokratisk..av.1|,|socialdemokratisk..1:-1.000|,|social..av.1+demokratisk..av.1:3.096e-12|,|social+demokratiskt|,0.0,17,18,AT,-1,Flashback: Politik,0
+1630,19,kommunalråd,NN.NEU.SIN.IND.NOM,|kommunalråd|,|kommunalråd..nn.1|,|kommunalråd..1:-1.000|,|kommunal..av.1+råd..nn.3:8.110e-11|kommunal..av.1+råd..nn.2:8.110e-11|kommunal..av.1+råd..nn.1:8.110e-11|kommun..nn.1+al..nn.1+råd..nn.3:7.802e-16|kommun..nn.1+al..nn.1+råd..nn.1:7.802e-16|kommun..nn.1+al..nn.1+råd..nn.2:7.802e-16|,|kommunal+råd|kommun+al+råd|,0.0,18,16,SP,-1,Flashback: Politik,0
+1630,19,.,MAD,|,|,|,|,|,,19,1,IP,-1,Flashback: Politik,0
+152,16,Han,PN.UTR.SIN.DEF.SUB,|han|,|han..pn.1|,|han..1:-1.000|,|,|,,1,2,SS,-1,8 Sidor,0
+152,16,har,VB.PRS.AKT,|ha|,|ha..vb.1|,|ha..1:0.584|ha..3:0.416|,|,|,0.0,2,9,MS,-1,8 Sidor,0
+152,16,berättat,VB.SUP.AKT,|berätta|,|berätta..vb.1|,|berätta..1:-1.000|,|,|,0.0,3,2,VG,-1,8 Sidor,0
+152,16,att,SN,|att|,|att..sn.1|,|att..1:-1.000|,|,|,,4,3,OO,-1,8 Sidor,0
+152,16,höften,NN.UTR.SIN.DEF.NOM,|höft|,|höft..nn.1|,|höft..1:-1.000|,|,|,,5,6,SS,-1,8 Sidor,0
+152,16,måste,VB.PRS.AKT,|måste|,|måste..vb.1|,|måste..1:-1.000|,|,|,0.0,6,4,UA,-1,8 Sidor,0
+152,16,opereras,VB.INF.SFO,|operera|,|operera..vb.1|,|operera..1:0.988|operera..3:0.011|operera..2:0.001|,|,|,0.0,7,6,VG,-1,8 Sidor,0
+152,16,",",MID,|,|,|,|,|,,8,9,IK,-1,8 Sidor,0
+152,16,men,KN,|men|,|men..kn.1|,|men..1:-1.000|,|,|,,9,0,ROOT,-1,8 Sidor,0
+152,16,han,PN.UTR.SIN.DEF.SUB,|han|,|han..pn.1|,|han..1:-1.000|,|,|,,10,11,SS,-1,8 Sidor,0
+152,16,har,VB.PRS.AKT,|ha|,|ha..vb.1|,|ha..3:0.515|ha..1:0.485|,|,|,-0.0,11,9,MS,-1,8 Sidor,0
+152,16,inte,AB,|inte|,|inte..ab.1|,|inte..1:-1.000|,|,|,,12,11,,-1,8 Sidor,0
+152,16,velat,VB.SUP.AKT,|vela|vilja|,|vela..vb.1|vilja..vb.1|,|vilja..1:0.588|vela..1:0.412|,|,|,-0.0,13,11,VG,-1,8 Sidor,0
+152,16,säga,VB.INF.AKT,|säga|,|säga..vb.1|,|säga..1:0.972|säga..2:0.018|säga..3:0.010|,|,|,0.0,14,13,VG,-1,8 Sidor,0
+152,16,när,HA,|när|,|när..ab.1|,|när..1:0.889|nära..1:0.111|,|,|,,15,14,ROOT,-1,8 Sidor,0
+152,16,.,MAD,|,|,|,|,|,,16,15,IP,-1,8 Sidor,0
+1138,25,Det,PN.NEU.SIN.DEF.SUB+OBJ,|den|,|den..pn.1|,|den..2:-1.000|,|,|,,1,2,SS,-1,SVT Nyheter 1018,0
+1138,25,gör,VB.PRS.AKT,|göra|,|göra..vb.1|,|göra..1:0.889|göra..2:0.082|göra..3:0.029|,|,|,0.0,2,0,ROOT,-1,SVT Nyheter 1018,0
+1138,25,också,AB,|också|,|också..ab.1|,|också..1:-1.000|,|,|,,3,2,+A,-1,SVT Nyheter 1018,0
+1138,25,att,SN,|att|,|att..sn.1|,|att..1:-1.000|,|,|,,4,2,OO,-1,SVT Nyheter 1018,0
+1138,25,det,PN.NEU.SIN.DEF.SUB+OBJ,|den|,|den..pn.1|,|den..2:-1.000|,|,|,,5,4,UA,-1,SVT Nyheter 1018,0
+1138,25,att,SN,|att|,|att..sn.1|,|att..1:-1.000|,|,|,,6,5,OO,-1,SVT Nyheter 1018,0
+1138,25,det,PN.NEU.SIN.DEF.SUB+OBJ,|den|,|den..pn.1|,|den..2:-1.000|,|,|,,7,8,SS,-1,SVT Nyheter 1018,0
+1138,25,är,VB.PRS.AKT,|vara|,|vara..vb.1|,|vara..1:-1.000|,|,|,0.0,8,6,UA,-1,SVT Nyheter 1018,0
+1138,25,svårt,JJ.POS.NEU.SIN.IND.NOM,|svår|,|svår..av.1|,|svår..1:0.913|svår..2:0.087|,|,|,-1.0,9,8,SP,-1,SVT Nyheter 1018,0
+1138,25,för,PP,|för|,|för..pp.1|,|för..1:-1.000|för..5:-1.000|för..6:-1.000|för..7:-1.000|för..9:-1.000|,|,|,,10,8,OA,-1,SVT Nyheter 1018,0
+1138,25,olika,JJ.POS.UTR+NEU.PLU.IND+DEF.NOM,|olik|,|olik..av.1|,|olik..1:-1.000|,|,|,0.0,11,12,AT,-1,SVT Nyheter 1018,0
+1138,25,nättjänster,NN.UTR.PLU.IND.NOM,|nättjänst|,|,|,|nät..nn.1+tjänst..nn.2:1.570e-10|nät..nn.1+tjänst..nn.1:1.570e-10|nätt..av.1+tjänst..nn.1:2.760e-12|nätt..av.1+tjänst..nn.2:2.760e-12|,|nät+tjänster|nätt+tjänster|,,12,10,PA,-1,SVT Nyheter 1018,0
+1138,25,",",MID,|,|,|,|,|,,13,8,IK,-1,SVT Nyheter 1018,0
+1138,25,framför,PP,|framför|framför allt|,|framför..pp.1|framför_allt..abm.1|,|framförallt..1:1.000|framför..1:0.000|,|,|,,14,8,RA,-1,SVT Nyheter 1018,0
+1138,25,allt,PN.NEU.SIN.IND.SUB+OBJ,|all|framför allt:14|,|all..pn.1|framför_allt..abm.1:14|,|all..1:-1.000|framförallt..1:14:-1.000|,|,|,,15,14,HD,-1,SVT Nyheter 1018,0
+1138,25,de,DT.UTR+NEU.PLU.DEF,|en|,|en..al.1|,|den..1:-1.000|en..2:-1.000|,|,|,,16,17,DT,-1,SVT Nyheter 1018,0
+1138,25,mindre,JJ.KOM.UTR+NEU.SIN+PLU.IND+DEF.NOM,|liten|,|liten..av.1|,|liten..1:-1.000|,|,|,0.0,17,14,PA,-1,SVT Nyheter 1018,0
+1138,25,",",MID,|,|,|,|,|,,18,17,IK,-1,SVT Nyheter 1018,0
+1138,25,att,IE,|att|,|att..sn.1|,|att..1:-1.000|,|,|,,19,17,OA,-1,SVT Nyheter 1018,0
+1138,25,använda,VB.INF.AKT,|använda|,|använda..vb.1|,|använda..1:-1.000|,|an..ab.1+vända..vb.2:8.602e-11|an..ab.1+vända..vb.1:8.602e-11|,|an+vända|,0.0,20,19,IF,-1,SVT Nyheter 1018,0
+1138,25,säkra,JJ.POS.UTR+NEU.PLU.IND+DEF.NOM,|säker|,|säker..av.1|,|säker..1:0.573|säker..2:0.315|säker..3:0.112|,|,|,1.0,21,22,AT,-1,SVT Nyheter 1018,0
+1138,25,identiteter,NN.UTR.PLU.IND.NOM,|identitet|,|identitet..nn.1|,|identitet..1:-1.000|,|id..nn.3+entitet..nn.1:3.217e-13|id..nn.1+entitet..nn.1:3.217e-13|id..nn.2+entitet..nn.1:3.217e-13|id..nn.1+entita..nn.1+eter..nn.2:5.818e-27|id..nn.3+entita..nn.1+eter..nn.2:5.818e-27|id..nn.1+entita..nn.1+eter..nn.1:5.818e-27|id..nn.2+entita..nn.1+eter..nn.1:5.818e-27|id..nn.2+entita..nn.1+eter..nn.2:5.818e-27|id..nn.3+entita..nn.1+eter..nn.1:5.818e-27|,|id+entiteter|id+entit+eter|,0.0,22,20,OO,-1,SVT Nyheter 1018,0
+1138,25,på,PP,|på|,|på..pp.1|,|på..1:-1.000|,|,|,,23,20,RA,-1,SVT Nyheter 1018,0
+1138,25,internet,NN.NEU.SIN.IND.NOM,|internet|,|internet..nn.1|,|internet..1:-1.000|,|,|,0.0,24,23,PA,-1,SVT Nyheter 1018,0
+1138,25,.,MAD,|,|,|,|,|,,25,2,IP,-1,SVT Nyheter 1018,0
