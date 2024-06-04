@@ -1,4 +1,4 @@
-# Evaluating-Lexicon-Based-Models-versus-BERT-for-Sentence-Level-Sentiment-Ana-lysis-in-Swedish
+# Evaluating-Lexicon-Based-Models-versus-BERT-for-Sentence-Level-Sentiment-Analysis-in-Swedish
 
 ## Abstract
 
